@@ -1,148 +1,148 @@
 ,Artist,id,Song Name,Popularity,Danceability,Energy,Tempo,Duration
 0,Daniel Powter,0mUyMawtxj1CJ76kn9gIZK,Bad Day,77,0.599,0.785,140.046,233640
 1,Sean Paul,0k2GOhqsrxDTAbFFSdNJjT,Temperature,83,0.951,0.6,125.04,218573
-2,Nelly Furtado,2gam98EZKrF9XuOkU13ApN,Promiscuous,87,0.808,0.97,114.328,242293
-3,Starry Cat,7wvngPeKCLPzIpA84IrsSr,I Think You're Really Beautiful,51,0.174,0.569,86.557,149328
-4,Shakira,3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie (feat. Wyclef Jean),87,0.778,0.824,100.024,218093
+2,Nelly Furtado Featuring Timbaland,2gam98EZKrF9XuOkU13ApN,Promiscuous,87,0.808,0.97,114.328,242293
+3,James Blunt,7wvngPeKCLPzIpA84IrsSr,You're Beautiful,51,0.174,0.569,86.557,149328
+4,Shakira Featuring Wyclef Jean,3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie,87,0.778,0.824,100.024,218093
 5,Natasha Bedingfield,3U5JVgI2x4rDyHGObzJfNf,Unwritten,85,0.706,0.8,100.011,259333
-6,Fuerza Regida,4zfQER4owi8q6NL8Gg63Ya,CRAZYZ,89,0.809,0.836,125.953,199964
-7,Jason Derulo,6BaxqcoEM9r3LXisTyJjST,Ridin' Solo,67,0.442,0.83,89.338,215747
-8,Justin Timberlake,0O45fw2L5vsWpdsOdXwNAR,SexyBack (feat. Timbaland),82,0.967,0.583,117.0,242733
-9,Beyoncé,2RWxrpsFshOBFwRBRstUlQ,Check On It (feat. Bun B & Slim Thug),61,0.705,0.796,166.042,210453
-10,Beyoncé,6RX5iL93VZ5fKmyvNXvF1r,Irreplaceable,73,0.447,0.694,175.868,227853
-11,Rihanna,2yPoXCs7BSIUrucMdK5PzV,Umbrella,75,0.583,0.829,174.028,275987
-12,Gwen Stefani,66ZcOcouenzZEnzTJvoFmH,The Sweet Escape,76,0.756,0.77,119.961,246467
-13,Fergie,4AniPkv5vgdE1n6VKreiyI,Big Girls Don't Cry (Personal),69,0.707,0.642,113.083,268120
-14,T-Pain,1tkMs9wDPknQ3ZHcKDw1ES,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),79,0.693,0.549,80.028,227960
+6,Gnarls Barkley,4zfQER4owi8q6NL8Gg63Ya,Crazy,89,0.809,0.836,125.953,199964
+7,Chamillionaire Featuring Krayzie Bone,6BaxqcoEM9r3LXisTyJjST,Ridin',67,0.442,0.83,89.338,215747
+8,Justin Timberlake,0O45fw2L5vsWpdsOdXwNAR,SexyBack,82,0.967,0.583,117.0,242733
+9,Beyonce Featuring Slim Thug,2RWxrpsFshOBFwRBRstUlQ,Check On It,61,0.705,0.796,166.042,210453
+10,Beyonce,6RX5iL93VZ5fKmyvNXvF1r,Irreplaceable,73,0.447,0.694,175.868,227853
+11,Rihanna Featuring Jay-Z,2yPoXCs7BSIUrucMdK5PzV,Umbrella,75,0.583,0.829,174.028,275987
+12,Gwen Stefani Featuring Akon,66ZcOcouenzZEnzTJvoFmH,The Sweet Escape,76,0.756,0.77,119.961,246467
+13,Fergie,4AniPkv5vgdE1n6VKreiyI,Big Girls Don't Cry,69,0.707,0.642,113.083,268120
+14,T-Pain Featuring Yung Joc,1tkMs9wDPknQ3ZHcKDw1ES,Buy U A Drank (Shawty Snappin'),79,0.693,0.549,80.028,227960
 15,Carrie Underwood,0ZUo4YjG4saFnEJhdWp9Bt,Before He Cheats,82,0.519,0.749,147.905,199947
 16,Plain White T's,4RCWB3V8V0dignt99LZ8vH,Hey There Delilah,81,0.656,0.291,103.971,232533
-17,Akon,0CXVjQI9wsqaGeIARkkpYc,I Wanna Love You,77,0.866,0.454,99.985,247067
+17,Akon Featuring Snoop Dogg,0CXVjQI9wsqaGeIARkkpYc,I Wanna Love You,77,0.866,0.454,99.985,247067
 18,Nelly Furtado,2aI21FnmY7TJVKeMaoQZ0t,Say It Right,83,0.872,0.872,116.948,223080
-19,Fergie,4KTtYhxFtFL7mBwnjkKfLm,Glamorous,74,0.81,0.755,130.991,246573
-20,SZA,2GAhgAjOhEmItWLfgisyOn,Low,84,0.698,0.546,145.044,181080
+19,Fergie Featuring Ludacris,4KTtYhxFtFL7mBwnjkKfLm,Glamorous,74,0.81,0.755,130.991,246573
+20,Flo Rida Featuring T-Pain,2GAhgAjOhEmItWLfgisyOn,Low,84,0.698,0.546,145.044,181080
 21,Leona Lewis,7wZUrN8oemZfsEd1CGkbXE,Bleeding Love,79,0.638,0.656,104.036,262467
 22,Alicia Keys,0mZ5GyrHG908lqrHaTw4hi,No One,76,0.641,0.552,90.098,254524
-23,Darell,3cDyocF0Ibdfs1SFQk5cLZ,Lollipop,90,0.822,0.711,102.984,199947
-24,OneRepublic,1NrJYpdAi7uosDRPmSYrsG,Apologize,72,0.593,0.74,118.008,208107
-25,Zach Bryan,0u9NVrPqUINrHIFCuPOnYm,November Air,73,0.429,0.197,128.49,243709
-26,Rihanna,3DZQ6mzUkAdHqZWzqxBKIK,Loveeeeeee Song,76,0.71,0.598,119.981,256320
-27,USHER,5j0McHPthKpOXRr3fBq8M0,Love in This Club (feat. Young Jeezy),75,0.573,0.712,140.012,259720
-28,Cody Johnson,34SQ0QfLSR316d8KL2zkuZ,With You I Am,73,0.558,0.66,75.009,220893
-29,Cults,2enPRFda84VE2wtI8c86Uf,Always Forever,83,0.174,0.742,163.378,223747
-30,Black Eyed Peas,3opVsyWVYEAFK9bJAG8Opa,Boom Boom Pow,68,0.866,0.857,130.049,251440
+23,Lil Wayne Featuring Static Major,3cDyocF0Ibdfs1SFQk5cLZ,Lollipop,90,0.822,0.711,102.984,199947
+24,Timbaland Featuring OneRepublic,1NrJYpdAi7uosDRPmSYrsG,Apologize,72,0.593,0.74,118.008,208107
+25,Jordin Sparks Duet With Chris Brown,0u9NVrPqUINrHIFCuPOnYm,No Air,73,0.429,0.197,128.49,243709
+26,Sara Bareilles,3DZQ6mzUkAdHqZWzqxBKIK,Love Song,76,0.71,0.598,119.981,256320
+27,Usher Featuring Young Jeezy,5j0McHPthKpOXRr3fBq8M0,Love In This Club,75,0.573,0.712,140.012,259720
+28,Chris Brown,34SQ0QfLSR316d8KL2zkuZ,With You,73,0.558,0.66,75.009,220893
+29,Chris Brown,2enPRFda84VE2wtI8c86Uf,Forever,83,0.174,0.742,163.378,223747
+30,The Black Eyed Peas,3opVsyWVYEAFK9bJAG8Opa,Boom Boom Pow,68,0.866,0.857,130.049,251440
 31,Lady Gaga,5R8dQOPq8haW94K7mgERlO,Poker Face,81,0.851,0.806,118.999,237200
-32,Lady Gaga,2x7MyWybabEz6Y6wvHuwGE,Just Dance,78,0.822,0.739,118.992,241933
-33,Black Eyed Peas,2H1047e0oMSj10dgp7p2VG,I Gotta Feeling,79,0.744,0.766,127.966,289133
+32,Lady Gaga Featuring Colby O'Donis,2x7MyWybabEz6Y6wvHuwGE,Just Dance,78,0.822,0.739,118.992,241933
+33,The Black Eyed Peas,2H1047e0oMSj10dgp7p2VG,I Gotta Feeling,79,0.744,0.766,127.966,289133
 34,Taylor Swift,1vrd6UOGamcKNGnSHJQlSt,Love Story,70,0.618,0.741,118.984,235267
 35,Flo Rida,3GpbwCm3YxiWDvy29Uo3vP,Right Round,80,0.72,0.672,124.986,204640
-36,$uicideboy$,5ClnW65Z82Mqu4QFwf69YU,Now I'm up to My Neck with Offers,75,0.79,0.858,137.894,167015
-37,Beyoncé,2ZBNclC5wm4GtiWaeh0DMx,Single Ladies (Put a Ring on It),69,0.426,0.584,193.437,193213
+36,Jason Mraz,5ClnW65Z82Mqu4QFwf69YU,I'm Yours,75,0.79,0.858,137.894,167015
+37,Beyonce,2ZBNclC5wm4GtiWaeh0DMx,Single Ladies (Put A Ring On It),69,0.426,0.584,193.437,193213
 38,Kanye West,4EWCNWgDS8707fNSZ1oaA5,Heartless,91,0.79,0.647,87.999,211000
 39,The All-American Rejects,6ihL9TjfRjadfEePzXXyVF,Gives You Hell,73,0.718,0.691,100.008,213107
-40,Kesha,0HPD5WQqrq7wPWR7P7Dw1i,TiK ToK,86,0.755,0.837,120.028,199693
-41,Lady A,11EX5yhxr9Ihl3IN1asrfK,Need You Now,73,0.587,0.622,107.943,277573
+40,Ke$ha,0HPD5WQqrq7wPWR7P7Dw1i,TiK ToK,86,0.755,0.837,120.028,199693
+41,Lady Antebellum,11EX5yhxr9Ihl3IN1asrfK,Need You Now,73,0.587,0.622,107.943,277573
 42,Train,4HlFJV71xXKIGcU3kRyttv,"Hey, Soul Sister",86,0.673,0.886,97.012,216773
-43,Katy Perry,6KOEK6SeCEZOQkLj5M1PxH,California Gurls,75,0.788,0.753,125.005,234653
-44,NewJeans,65FftemJ1DbbZ45DUfHJXE,OMG,87,0.804,0.771,126.956,212253
-45,B.o.B,6lV2MSQmRIkycDScNtrBXO,Airplanes (feat. Hayley Williams of Paramore),78,0.66,0.867,93.033,180480
-46,Eminem,15JINEqzVMv3SvJTAXAKED,Love The Way You Lie,89,0.749,0.925,86.989,263373
+43,Katy Perry Featuring Snoop Dogg,6KOEK6SeCEZOQkLj5M1PxH,California Gurls,75,0.788,0.753,125.005,234653
+44,Usher Featuring will.i.am,65FftemJ1DbbZ45DUfHJXE,OMG,87,0.804,0.771,126.956,212253
+45,B.o.B Featuring Hayley Williams,6lV2MSQmRIkycDScNtrBXO,Airplanes,78,0.66,0.867,93.033,180480
+46,Eminem Featuring Rihanna,15JINEqzVMv3SvJTAXAKED,Love The Way You Lie,89,0.749,0.925,86.989,263373
 47,Lady Gaga,0SiywuOBRcynK0uKGWdCnn,Bad Romance,87,0.696,0.921,119.001,294573
 48,Taio Cruz,1DqdF42leyFIzqNDv9CjId,Dynamite,73,0.754,0.804,119.968,203867
-49,Taio Cruz,1CdqVF1ywD0ZO1zXtB9yWa,Break Your Heart,70,0.666,0.899,122.05,186267
-50,Adele,1c8gk2PeTE04A1pIDH9YMk,Rolling in the Deep,83,0.73,0.769,104.948,228093
-51,LMFAO,0IkKz2J93C94Ei4BvDop7P,Party Rock Anthem,72,0.75,0.727,129.993,262173
+49,Taio Cruz Featuring Ludacris,1CdqVF1ywD0ZO1zXtB9yWa,Break Your Heart,70,0.666,0.899,122.05,186267
+50,Adele,1c8gk2PeTE04A1pIDH9YMk,Rolling In The Deep,83,0.73,0.769,104.948,228093
+51,LMFAO Featuring Lauren Bennett & GoonRock,0IkKz2J93C94Ei4BvDop7P,Party Rock Anthem,72,0.75,0.727,129.993,262173
 52,Katy Perry,4r6eNCsrZnQWJzzvFh4nlg,Firework,75,0.638,0.832,124.071,227893
-53,Linkin Park,60a0Rd6pjrkxjPbaKzXjfq,In the End,90,0.556,0.864,105.143,216880
-54,Pitbull,4QNpBfC0zvjKqPJcyqBy9W,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",86,0.671,0.939,129.024,252307
+53,Katy Perry Featuring Kanye West,60a0Rd6pjrkxjPbaKzXjfq,E.T.,90,0.556,0.864,105.143,216880
+54,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",4QNpBfC0zvjKqPJcyqBy9W,Give Me Everything,86,0.671,0.939,129.024,252307
 55,Bruno Mars,2tJulUYLDKOg9XrtVkMgcJ,Grenade,81,0.704,0.558,110.444,222091
 56,Nicki Minaj,3hlksXnvbKogFdPbpO9vel,Super Bass,84,0.723,0.86,126.979,200013
-57,Maroon 5,7LcfRTgAVTs5pQGEQgUEzN,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",75,0.722,0.758,128.047,201160
-58,Depeche Mode,0xuXRQJfxmdP6gvfDe2Z4L,Just Can't Get Enough - 2006 Remaster,66,0.765,0.766,128.177,222760
-59,The Lumineers,5MMZJtHOiH1RmQSSe3DJdg,Sleep On The Floor,74,0.389,0.431,142.14,211851
-60,Gotye,4wCmqSrbyCgxEXROQE6vtV,Somebody That I Used To Know,78,0.864,0.495,129.062,244973
+57,Maroon 5 Featuring Christina Aguilera,7LcfRTgAVTs5pQGEQgUEzN,Moves Like Jagger,75,0.722,0.758,128.047,201160
+58,The Black Eyed Peas,0xuXRQJfxmdP6gvfDe2Z4L,Just Can't Get Enough,66,0.765,0.766,128.177,222760
+59,Jennifer Lopez Featuring Pitbull,5MMZJtHOiH1RmQSSe3DJdg,On The Floor,74,0.389,0.431,142.14,211851
+60,Gotye Featuring Kimbra,4wCmqSrbyCgxEXROQE6vtV,Somebody That I Used To Know,78,0.864,0.495,129.062,244973
 61,Carly Rae Jepsen,3TGRqZ0a2l1LRblBkJoaDx,Call Me Maybe,75,0.783,0.58,120.021,193400
-62,fun.,7a86XRg84qjasly9f6bPSD,We Are Young (feat. Janelle Monáe),76,0.378,0.638,184.086,250627
-63,Maroon 5,4P0osvTXoSYZZC2n8IFH3c,Payphone,74,0.739,0.756,110.028,231387
-64,Kanye West,5TRPicyLGbAF2LGBFbHGvO,Flashing Lights,90,0.639,0.628,90.482,237507
+62,fun. Featuring Janelle Monae,7a86XRg84qjasly9f6bPSD,We Are Young,76,0.378,0.638,184.086,250627
+63,Maroon 5 Featuring Wiz Khalifa,4P0osvTXoSYZZC2n8IFH3c,Payphone,74,0.739,0.756,110.028,231387
+64,Ellie Goulding,5TRPicyLGbAF2LGBFbHGvO,Lights,90,0.639,0.628,90.482,237507
 65,The Wanted,5yDL13y5giogKs2fSNf7sj,Glad You Came,81,0.722,0.851,126.885,197936
 66,Kelly Clarkson,6D60klaHqbCl9ySc8VcRss,Stronger (What Doesn't Kill You),69,0.562,0.939,116.044,221947
-67,Rihanna,6qn9YLKt13AGvpq9jfO8py,We Found Love,87,0.734,0.766,127.986,215227
+67,Rihanna Featuring Calvin Harris,6qn9YLKt13AGvpq9jfO8py,We Found Love,87,0.734,0.766,127.986,215227
 68,Nicki Minaj,1oHNvJVbFkexQc0BpQp7Y4,Starships,78,0.747,0.716,125.008,210627
 69,One Direction,4cluDES4hQEUhmXj6TXkSo,What Makes You Beautiful,86,0.726,0.787,124.99,199987
-70,Macklemore,6CjtS2JZH9RkDz5UVInsa9,Thrift Shop (feat. Wanz),83,0.781,0.526,94.993,235613
-71,Robin Thicke,0n4bITAu0Y0nigrz3MFJMb,Blurred Lines,78,0.853,0.599,119.993,263827
+70,Macklemore & Ryan Lewis Featuring Wanz,6CjtS2JZH9RkDz5UVInsa9,Thrift Shop,83,0.781,0.526,94.993,235613
+71,Robin Thicke Featuring T.I. + Pharrell,0n4bITAu0Y0nigrz3MFJMb,Blurred Lines,78,0.853,0.599,119.993,263827
 72,Imagine Dragons,4G8gkOterJn0Ywt6uhqbhp,Radioactive,76,0.448,0.784,136.245,186813
 73,Baauer,01XFgRZfZI7oBagNf1Loml,Harlem Shake,58,0.452,0.794,137.825,196664
-74,Westwood Joys,2kFLi6xkCjT3b4FiL0ucKl,I Heard They Can't Hold Us Down,37,0.639,0.117,97.732,73469
+74,Macklemore & Ryan Lewis Featuring Ray Dalton,2kFLi6xkCjT3b4FiL0ucKl,Can't Hold Us,37,0.639,0.117,97.732,73469
 75,Justin Timberlake,4rHZZAmHpZrA3iH5zx8frV,Mirrors,85,0.574,0.512,76.899,484147
-76,P!nk,1mKXFLRA179hdOWQBwUk9e,Just Give Me a Reason (feat. Nate Ruess),85,0.778,0.547,95.002,242733
+76,P!nk Featuring Nate Ruess,1mKXFLRA179hdOWQBwUk9e,Just Give Me A Reason,85,0.778,0.547,95.002,242733
 77,Bruno Mars,0nJW01T7XtvILxQgC5J7Wh,When I Was Your Man,90,0.612,0.28,72.795,213827
-78,Florida Georgia Line,0i5el041vd6nxrGEU8QRxy,Cruise,72,0.457,0.948,148.0,208960
+78,Florida Georgia Line Featuring Nelly,0i5el041vd6nxrGEU8QRxy,Cruise,72,0.457,0.948,148.0,208960
 79,Katy Perry,27tNWlhdAryQY04Gb2ZhUI,Roar,82,0.671,0.771,90.003,223546
-80,NF,3ZEno9fORwMA1HPecdLi0R,HAPPY,78,0.732,0.855,106.004,242691
-81,Katy Perry,4jbmgIyjGoXjY01XxatOx6,Dark Horse,84,0.647,0.585,131.934,215672
-82,21 Savage,2FoahzOSxJnalPA8aBUme3,all of me,85,0.653,0.805,159.947,198293
-83,Drake,3fpTMuD1u3gJlVI4FadVHs,Fancy,75,0.53,0.884,87.194,319387
+80,Pharrell Williams,3ZEno9fORwMA1HPecdLi0R,Happy,78,0.732,0.855,106.004,242691
+81,Katy Perry Featuring Juicy J,4jbmgIyjGoXjY01XxatOx6,Dark Horse,84,0.647,0.585,131.934,215672
+82,John Legend,2FoahzOSxJnalPA8aBUme3,All Of Me,85,0.653,0.805,159.947,198293
+83,Iggy Azalea Featuring Charli XCX,3fpTMuD1u3gJlVI4FadVHs,Fancy,75,0.53,0.884,87.194,319387
 84,OneRepublic,2tpWsVSb9UEmDRxAl1zhX1,Counting Stars,90,0.664,0.705,122.016,257267
-85,Jason Derulo,6g6A7qNhTfUgOSH7ROOxTD,Talk Dirty (feat. 2 Chainz),70,0.76,0.652,100.315,177685
+85,Jason Derulo Featuring 2 Chainz,6g6A7qNhTfUgOSH7ROOxTD,Talk Dirty,70,0.76,0.652,100.315,177685
 86,MAGIC!,6RtPijgfPKROxEzTHNRiDp,Rude,84,0.773,0.758,144.033,224840
 87,Meghan Trainor,5jE48hhRu8E6zBDPRSkEq7,All About That Bass,75,0.807,0.887,134.052,187920
-88,Taylor Swift,0sY6ZUTh4yoctD8VIXz339,champagne problems,83,0.462,0.24,171.319,244000
+88,Ariana Grande Featuring Iggy Azalea,0sY6ZUTh4yoctD8VIXz339,Problem,83,0.462,0.24,171.319,244000
 89,Sam Smith,5Nm9ERjJZ5oyfXZTECKmRt,Stay With Me,87,0.418,0.42,84.094,172724
-90,Mark Ronson,32OlwWuMpZ6b0aN2RZOeMS,Uptown Funk (feat. Bruno Mars),86,0.856,0.609,114.988,269667
-91,Ed Sheeran,34gCuhDGsG4bRPIf9bb02f,Thinking out Loud,85,0.781,0.445,78.998,281560
-92,"Tyler, The Creator",7KA4W4McWYRpgf0fWsJZWB,See You Again (feat. Kali Uchis),92,0.558,0.559,78.558,180387
+90,Mark Ronson Featuring Bruno Mars,32OlwWuMpZ6b0aN2RZOeMS,Uptown Funk!,86,0.856,0.609,114.988,269667
+91,Ed Sheeran,34gCuhDGsG4bRPIf9bb02f,Thinking Out Loud,85,0.781,0.445,78.998,281560
+92,Wiz Khalifa Featuring Charlie Puth,7KA4W4McWYRpgf0fWsJZWB,See You Again,92,0.558,0.559,78.558,180387
 93,Fetty Wap,2d8JP84HNLKhmd6IYOoupQ,Trap Queen,78,0.746,0.873,148.075,222093
 94,Maroon 5,2iuZJX9X9P0GKaE93xcPjk,Sugar,83,0.748,0.788,120.076,235493
-95,WALK THE MOON,4kbj5MwxO1bq9wjT5g9HaA,Shut Up and Dance,86,0.578,0.866,128.038,199080
+95,WALK THE MOON,4kbj5MwxO1bq9wjT5g9HaA,Shut Up And Dance,86,0.578,0.866,128.038,199080
 96,Taylor Swift,1p80LdxRV74UKvL8gnD7ky,Blank Space,78,0.753,0.678,96.006,231827
-97,Trolls,0ukPlkEhhWPQWKq5b2awnn,Watch Me Work,80,0.747,0.693,119.921,150267
-98,The Weeknd,2PIvq1pGrUjY007X5y1UpM,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",78,0.659,0.381,119.844,252227
+97,Silento,0ukPlkEhhWPQWKq5b2awnn,Watch Me,80,0.747,0.693,119.921,150267
+98,The Weeknd,2PIvq1pGrUjY007X5y1UpM,Earned It (Fifty Shades Of Grey),78,0.659,0.381,119.844,252227
 99,The Weeknd,7fBv7CLKzipRk6EC6TWHOB,The Hills,90,0.585,0.564,113.003,242253
 100,Justin Bieber,50kpGaPAhYJ3sGmk6vplg0,Love Yourself,87,0.609,0.378,100.418,233720
 101,Justin Bieber,09CtPGIpYB4BrO8qb1RGsF,Sorry,86,0.654,0.76,99.945,200787
-102,Drake,1zi7xx7UVEFkmKfv06H8x0,One Dance,90,0.792,0.625,103.967,173987
-103,J. Cole,2wAJTrFhCnQyNSD3oUgTZO,Work Out,85,0.831,0.427,93.004,235320
-104,Twenty One Pilots,3CRDbSIZ4r5MsZ0YwxuEkn,Stressed Out,88,0.734,0.637,169.977,202333
+102,Drake Featuring WizKid & Kyla,1zi7xx7UVEFkmKfv06H8x0,One Dance,90,0.792,0.625,103.967,173987
+103,Rihanna Featuring Drake,2wAJTrFhCnQyNSD3oUgTZO,Work,85,0.831,0.427,93.004,235320
+104,twenty one pilots,3CRDbSIZ4r5MsZ0YwxuEkn,Stressed Out,88,0.734,0.637,169.977,202333
 105,Desiigner,5YEOzOojehCqxGQCcQiyR4,Panda,72,0.576,0.766,144.833,246761
 106,Adele,62PaSfnXSMyLshYJrlTuL3,Hello,76,0.578,0.43,78.991,295502
-107,Elton John,11FcfHd3SOmmrWJPGe7Y30,Don't Let The Sun Go Down On Me - Remastered 1995,66,0.424,0.446,139.701,336733
-108,Trolls,1WkMMavIMc4JZ8cfMmxHkI,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",76,0.669,0.832,113.035,237547
-109,The Chainsmokers,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
-110,The Chainsmokers,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
-111,The Chainsmokers,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
-112,The Chainsmokers,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
-113,Ed Sheeran,7qiZfU4dY1lWllzX7mPBI3,Shape of You,89,0.825,0.652,95.977,233713
-114,Luis Fonsi,6habFhsOp2NvshLv26DqMb,Despacito,82,0.655,0.797,177.928,229360
-115,Punk Goes,6673o0Zktb21a5rHhOI64g,That’s What I Like,43,0.526,0.924,134.03,207253
-116,Kendrick Lamar,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,87,0.908,0.621,150.011,177000
-117,The Chainsmokers,6RUKPb4LETWmmr3iAEQktW,Something Just Like This,88,0.617,0.635,103.019,247160
-118,Migos,0M9ydKzuF3oZTfYYPfaGX1,Bad and Boujee (feat. Lil Uzi Vert),76,0.926,0.666,127.079,343150
+107,The Chainsmokers Featuring Daya,11FcfHd3SOmmrWJPGe7Y30,Don't Let Me Down,66,0.424,0.446,139.701,336733
+108,Justin Timberlake,1WkMMavIMc4JZ8cfMmxHkI,Can't Stop The Feeling!,76,0.669,0.832,113.035,237547
+109,The Chainsmokers Featuring Halsey,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
+110,The Chainsmokers Featuring Halsey,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
+111,The Chainsmokers Featuring Halsey,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
+112,The Chainsmokers Featuring Halsey,7BKLCZ1jbUBVqRi2FVlTVw,Closer,86,0.748,0.524,95.01,244960
+113,Ed Sheeran,7qiZfU4dY1lWllzX7mPBI3,Shape Of You,89,0.825,0.652,95.977,233713
+114,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,6habFhsOp2NvshLv26DqMb,Despacito,82,0.655,0.797,177.928,229360
+115,Bruno Mars,6673o0Zktb21a5rHhOI64g,That's What I Like,43,0.526,0.924,134.03,207253
+116,Kendrick Lamar,7KXjTSCq5nL1LoYtL7XAwS,Humble.,87,0.908,0.621,150.011,177000
+117,The Chainsmokers & Coldplay,6RUKPb4LETWmmr3iAEQktW,Something Just Like This,88,0.617,0.635,103.019,247160
+118,Migos Featuring Lil Uzi Vert,0M9ydKzuF3oZTfYYPfaGX1,Bad And Boujee,76,0.926,0.666,127.079,343150
 119,Sam Hunt,7FpBQ067pHB67deawpbbcY,Body Like A Back Road,75,0.736,0.458,98.977,162547
 120,Imagine Dragons,0pqnGHJpmpxLKifKRmU6WP,Believer,90,0.776,0.78,124.949,204347
-121,Post Malone,3a1lNhkSLSkpJE4MSHpDu9,Congratulations,85,0.63,0.804,123.146,220293
-122,Speedy Jack,3EhZlrrSF5MTwa68SNTwHh,God's Plan - Sped Up,36,0.828,0.371,107.98,118611
-123,LE SSERAFIM,74X2u8JMVooG2QbjRxXwR8,Perfect Night,91,0.697,0.82,136.054,159080
-124,Bebe Rexha,4e4fqjx0Izh4svvTef1z7e,Meant to Be (feat. Florida Georgia Line),78,0.642,0.772,153.995,164205
-125,Camila Cabello,1rfofaqEpACxVEHIZBJe6W,Havana (feat. Young Thug),82,0.765,0.523,104.988,217307
-126,Junior H,6YOfGIE6iFxC7G8OlGGvzW,ROCKSTAR,88,0.761,0.658,125.036,168677
-127,Junior H,6YOfGIE6iFxC7G8OlGGvzW,ROCKSTAR,88,0.761,0.658,125.036,168677
-128,Junior H,6YOfGIE6iFxC7G8OlGGvzW,ROCKSTAR,88,0.761,0.658,125.036,168677
-129,Junior H,6YOfGIE6iFxC7G8OlGGvzW,ROCKSTAR,88,0.761,0.658,125.036,168677
-130,Xavier Wulf,3kZAm2TC74lBJFPDoV40Qc,Psycho Pass,73,0.973,0.446,115.039,135340
-131,Cardi B,58q2HKrzhC3ozto2nDdN4z,I Like It,80,0.816,0.726,136.048,253390
-132,Jimmy Eat World,6GG73Jik4jUlQCkKg9JuGO,The Middle,84,0.643,0.849,162.152,165853
+121,Post Malone Featuring Quavo,3a1lNhkSLSkpJE4MSHpDu9,Congratulations,85,0.63,0.804,123.146,220293
+122,Drake,3EhZlrrSF5MTwa68SNTwHh,God's Plan,36,0.828,0.371,107.98,118611
+123,Ed Sheeran,74X2u8JMVooG2QbjRxXwR8,Perfect,91,0.697,0.82,136.054,159080
+124,Bebe Rexha & Florida Georgia Line,4e4fqjx0Izh4svvTef1z7e,Meant To Be,78,0.642,0.772,153.995,164205
+125,Camila Cabello Featuring Young Thug,1rfofaqEpACxVEHIZBJe6W,Havana,82,0.765,0.523,104.988,217307
+126,Post Malone Featuring 21 Savage,6YOfGIE6iFxC7G8OlGGvzW,Rockstar,88,0.761,0.658,125.036,168677
+127,Post Malone Featuring 21 Savage,6YOfGIE6iFxC7G8OlGGvzW,Rockstar,88,0.761,0.658,125.036,168677
+128,DaBaby Featuring Roddy Ricch,6YOfGIE6iFxC7G8OlGGvzW,Rockstar,88,0.761,0.658,125.036,168677
+129,DaBaby Featuring Roddy Ricch,6YOfGIE6iFxC7G8OlGGvzW,Rockstar,88,0.761,0.658,125.036,168677
+130,Post Malone Featuring Ty Dolla $ign,3kZAm2TC74lBJFPDoV40Qc,Psycho,73,0.973,0.446,115.039,135340
+131,"Cardi B, Bad Bunny & J Balvin",58q2HKrzhC3ozto2nDdN4z,I Like It,80,0.816,0.726,136.048,253390
+132,"Zedd, Maren Morris & Grey",6GG73Jik4jUlQCkKg9JuGO,The Middle,84,0.643,0.849,162.152,165853
 133,Drake,2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,78,0.835,0.626,91.03,217925
-134,Maroon 5,6OEHjJJvdkk1Ln0p0AZdyz,Girls Like You,62,0.611,0.462,59.635,215230
-135,Lil Nas X,2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,78,0.878,0.619,136.041,157067
-136,Post Malone,0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,87,0.755,0.522,89.96,157560
-137,Eminem,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,91,0.908,0.669,112.238,290320
-138,Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,bad guy,85,0.701,0.425,135.128,194088
+134,Maroon 5 Featuring Cardi B,6OEHjJJvdkk1Ln0p0AZdyz,Girls Like You,62,0.611,0.462,59.635,215230
+135,Lil Nas X Featuring Billy Ray Cyrus,2YpeDb67231RjR0MgVLzsG,Old Town Road,78,0.878,0.619,136.041,157067
+136,Post Malone & Swae Lee,0RiRZpuVRbi7oqRdSMwhQY,Sunflower (Spider-Man: Into The Spider-Verse),87,0.755,0.522,89.96,157560
+137,Halsey,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,91,0.908,0.669,112.238,290320
+138,Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,Bad Guy,85,0.701,0.425,135.128,194088
 139,Post Malone,7xQAfvXzm3AkraOtGPWIZg,Wow.,84,0.829,0.539,99.96,149547
-140,Marshmello,7BqHUALzNBTanL6OvsqmC1,Happier,87,0.687,0.792,100.011,214290
-141,Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,7 rings,87,0.778,0.317,140.048,178627
-142,Yeat,0oO1AbL92F6329z13C2qQH,Talk,79,0.698,0.763,139.939,174857
-143,Travis Scott,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,87,0.834,0.73,155.008,312820
+140,Marshmello & Bastille,7BqHUALzNBTanL6OvsqmC1,Happier,87,0.687,0.792,100.011,214290
+141,Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,7 Rings,87,0.778,0.317,140.048,178627
+142,Khalid,0oO1AbL92F6329z13C2qQH,Talk,79,0.698,0.763,139.939,174857
+143,Travis Scott,2xLMifQCjDGFmkHkpNLD9h,Sicko Mode,87,0.834,0.73,155.008,312820
 144,Jonas Brothers,22vgEDb5hykfaTwLuskFGD,Sucker,82,0.842,0.734,137.958,181027
 145,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,93,0.514,0.73,171.005,200040
 146,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,93,0.514,0.73,171.005,200040
@@ -150,38 +150,38 @@
 148,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,93,0.514,0.73,171.005,200040
 149,Post Malone,21jGcNKet2qwijlDFuPiPb,Circles,89,0.695,0.762,120.042,215280
 150,Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,The Box,86,0.896,0.586,116.971,196653
-151,Vitamin String Quartet,6o6urrgOIVbIzzmO4KJHCO,Don’t Start Now,42,0.498,0.185,78.775,181347
+151,Dua Lipa,6o6urrgOIVbIzzmO4KJHCO,Don't Start Now,42,0.498,0.185,78.775,181347
 152,Harry Styles,3jjujdWJ72nww5eGnfs2E7,Adore You,85,0.676,0.771,99.048,207133
-153,Future,5yY9lUy8nbvjM1Uyo1Uqoc,Life Is Good (feat. Drake),78,0.676,0.609,142.037,237735
+153,Future Featuring Drake,5yY9lUy8nbvjM1Uyo1Uqoc,Life Is Good,78,0.676,0.609,142.037,237735
 154,Maroon 5,4cktbXiXOapiLBMprHFErI,Memories,87,0.775,0.327,91.05,189486
 155,Maren Morris,7yFhA2fUsL2oIMWlw5DaHQ,The Bones,72,0.612,0.57,77.004,197293
 156,Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,Someone You Loved,91,0.501,0.405,109.891,182161
 157,Dua Lipa,39LLxExYz6ewLAcYrzQQyP,Levitating,82,0.695,0.884,103.014,203808
-158,The Weeknd,5QO79kh1waicV47BqGRL3g,Save Your Tears,91,0.68,0.826,118.051,215627
-159,Ice Spice,0yUaLqhsVsguBpoOPL4cO7,In Ha Mood,77,0.768,0.74,141.059,129362
-160,Olivia Rodrigo,4ZtFanR9U6ndgddUvNcjcG,good 4 u,87,0.563,0.664,166.928,178147
-161,Doja Cat,3DarAbFujv6eYNliUTyqtz,Kiss Me More (feat. SZA),83,0.764,0.705,110.97,208667
-162,Bruno Mars,02VBYrHfVwfEWXk5DXyf0T,Leave The Door Open,83,0.586,0.616,148.088,242096
-163,Olivia Rodrigo,5wANPM4fQCJwkGd4rN57mH,drivers license,88,0.561,0.431,143.875,242013
-164,Lil Nas X,1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),80,0.593,0.503,178.781,137704
-165,Brian Tyler,4w9soAM7IrmYDhSXLp14p6,Peaches,74,0.698,0.312,92.138,95440
+158,The Weeknd & Ariana Grande,5QO79kh1waicV47BqGRL3g,Save Your Tears,91,0.68,0.826,118.051,215627
+159,24kGoldn Featuring iann dior,0yUaLqhsVsguBpoOPL4cO7,Mood,77,0.768,0.74,141.059,129362
+160,Olivia Rodrigo,4ZtFanR9U6ndgddUvNcjcG,Good 4 U,87,0.563,0.664,166.928,178147
+161,Doja Cat Featuring SZA,3DarAbFujv6eYNliUTyqtz,Kiss Me More,83,0.764,0.705,110.97,208667
+162,Silk Sonic (Bruno Mars & Anderson .Paak),02VBYrHfVwfEWXk5DXyf0T,Leave The Door Open,83,0.586,0.616,148.088,242096
+163,Olivia Rodrigo,5wANPM4fQCJwkGd4rN57mH,Drivers License,88,0.561,0.431,143.875,242013
+164,Lil Nas X,1SC5rEoYDGUK4NfG82494W,Montero (Call Me By Your Name),80,0.593,0.503,178.781,137704
+165,Justin Bieber Featuring Daniel Caesar & Giveon,4w9soAM7IrmYDhSXLp14p6,Peaches,74,0.698,0.312,92.138,95440
 166,Glass Animals,3USxtqRwSYz57Ewm6wWRMp,Heat Waves,91,0.761,0.525,80.87,238805
 167,Harry Styles,4Dvkj6JhhA12EX05fT7y2e,As It Was,95,0.52,0.731,173.93,167303
-168,Rihanna,789CxjEOtO76BVD1A9yJQH,Stay,74,0.621,0.31,111.893,240707
+168,The Kid LAROI & Justin Bieber,789CxjEOtO76BVD1A9yJQH,Stay,74,0.621,0.31,111.893,240707
 169,Adele,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,84,0.604,0.366,141.981,224695
 170,Ed Sheeran,50nfwKoDiSYg8zOCREWAm5,Shivers,87,0.788,0.859,141.02,207853
 171,Jack Harlow,0wHFktze2PHC5jDt3B17DC,First Class,82,0.902,0.582,107.005,173948
 172,Latto,6Zu3aw7FfjAF9WA0fA81Oq,Big Energy,72,0.935,0.807,106.017,173182
 173,Justin Bieber,6I3mqTwhRpn34SLVafSH7G,Ghost,89,0.601,0.741,153.96,153190
-174,Sniper Gang,4A8cWXxKfIL3lAyUDzXbCF,Super Gremlin,74,0.825,0.414,72.993,200548
-175,Elton John,6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,86,0.796,0.798,116.032,202735
+174,Kodak Black,4A8cWXxKfIL3lAyUDzXbCF,Super Gremlin,74,0.825,0.414,72.993,200548
+175,Elton John & Dua Lipa,6zSpb8dQRaw0M1dK8PBwQz,Cold Heart (PNAU Remix),86,0.796,0.798,116.032,202735
 176,Morgan Wallen,7K3BhSpAxZBznislvUMVtn,Last Night,86,0.492,0.675,203.759,163855
 177,Miley Cyrus,7DSAEUvxU8FajXtRloy8M0,Flowers,94,0.706,0.691,118.048,200600
 178,SZA,1Qrg8KqiBpW07V7PNxwwwL,Kill Bill,92,0.644,0.735,88.98,153947
 179,Taylor Swift,0V3wPSX9ygBnCm8psDIegu,Anti-Hero,92,0.637,0.643,97.008,200690
-180,Metro Boomin,2dHHgzDwk4BJdRwy9uXhTO,Creepin' (with The Weeknd & 21 Savage),92,0.715,0.62,97.95,221520
-181,Rema,0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),90,0.801,0.806,106.999,239318
-182,The Weeknd,2LBqCSwhJGcFQeTHMVGwy3,Die For You,91,0.586,0.525,133.629,260253
+180,"Metro Boomin, The Weeknd & 21 Savage",2dHHgzDwk4BJdRwy9uXhTO,Creepin',92,0.715,0.62,97.95,221520
+181,Rema & Selena Gomez,0WtM2NBVQNNJLh6scP13H8,Calm Down,90,0.801,0.806,106.999,239318
+182,The Weeknd & Ariana Grande,2LBqCSwhJGcFQeTHMVGwy3,Die For You,91,0.586,0.525,133.629,260253
 183,Luke Combs,1Lo0QY9cvc8sUB2vnIOxDT,Fast Car,88,0.712,0.603,97.994,265493
 184,SZA,4iZ4pt7kvcaH6Yo8UoZ4s2,Snooze,93,0.559,0.551,143.008,201800
-185,David Guetta,1LLmT2hZ415NaAz1cmZCBM,I'm Good (Blue) - Djs From Mars Remix,50,0.642,0.927,128.074,163000
+185,David Guetta & Bebe Rexha,1LLmT2hZ415NaAz1cmZCBM,I'm Good (Blue),50,0.642,0.927,128.074,163000
