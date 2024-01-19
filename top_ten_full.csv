@@ -1,4 +1,4 @@
-,Year,Rank,Title,Artist,Lyrics,id,Popularity,Danceability,Energy,Tempo,Duration
+,Year,Rank,Title,Artist,Lyrics,Popularity,Danceability,Energy,Tempo,Duration
 0,2006,1,Bad Day,Daniel Powter,"53 ContributorsBad Day Lyrics[Verse 1]
 Where is the moment we needed the most?
 You kick up the leaves and the magic is lost
@@ -73,7 +73,7 @@ You had a bad day
 Ah, yeah, yeah, yeah
 Had a bad day (Ah)
 Had a bad day (Ah, yeah, yeah, yeah)
-Had a bad day (Ah)42Embed",0mUyMawtxj1CJ76kn9gIZK,77,0.599,0.785,140.046,233640
+Had a bad day (Ah)42Embed",77,0.599,0.785,140.046,233640
 1,2006,2,Temperature,Sean Paul,"59 ContributorsTemperature Lyrics[Intro]
 Di gyaldem Schillaci, Chanderpaul
 Suh mi give it to, suh mi give it to
@@ -166,7 +166,7 @@ And girl, I wanna be the papa, you can be the mom, oh-oh!
 [Outro]
 Oh-oh
 Oh-oh
-Oh-oh26Embed",0k2GOhqsrxDTAbFFSdNJjT,83,0.951,0.6,125.04,218573
+Oh-oh26Embed",83,0.951,0.6,125.04,218573
 2,2006,3,Promiscuous,Nelly Furtado Featuring Timbaland,"1 ContributorTranslationsEnglishNelly Furtado - Promiscuous ft. Timbaland (Tradução em Português) Lyrics[Tradução de ""Promiscuous"", de Nelly Furtado & Timbaland]
 
 [Intro: Nelly Furtado & Timbaland]
@@ -258,7 +258,7 @@ Mas você está me deixando louca com o jeito que você me faz esperar
 Garota promíscua, você está me provocando
 Você sabe o que quero, e eu tenho o que você precisa
 Garoto promíscuo, estamos na mesma
-Então não precisamos mais fazer joguinhosEmbed",2gam98EZKrF9XuOkU13ApN,87,0.808,0.97,114.328,242293
+Então não precisamos mais fazer joguinhosEmbed",87,0.808,0.97,114.328,242293
 3,2006,4,You're Beautiful,James Blunt,"82 ContributorsTranslationsNederlandsYou’re Beautiful Lyrics[Intro]
 My life is brilliant
 [Verse 1]
@@ -307,7 +307,7 @@ When she thought up that I should be with you
 
 [Outro]
 But it's time to face the truth
-I will never be with you48Embed",7wvngPeKCLPzIpA84IrsSr,51,0.174,0.569,86.557,149328
+I will never be with you48Embed",51,0.174,0.569,86.557,149328
 4,2006,5,Hips Don't Lie,Shakira Featuring Wyclef Jean,"122 ContributorsTranslationsPortuguêsEspañolHips Don’t Lie Lyrics[Intro: Wyclef Jean]
 Ladies up in here tonight
 No fightin' (We got the refugees up in here)
@@ -417,7 +417,7 @@ Baby, like this is perfection
 
 [Outro: Wyclef Jean & Shakira]
 No fightin'
-No fightin'82Embed",3ZFTkvIE7kyPt6Nu3PEa7V,87,0.778,0.824,100.024,218093
+No fightin'82Embed",87,0.778,0.824,100.024,218093
 5,2006,6,Unwritten,Natasha Bedingfield,"42 ContributorsUnwritten Lyrics[Verse 1]
 I am unwritten, can't read my mind
 I'm undefined
@@ -504,7 +504,7 @@ The rest is still unwritten
 [Outro]
 The rest is still unwritten
 The rest is still unwritten
-Yeah, yeah, yeah, yeah25Embed",3U5JVgI2x4rDyHGObzJfNf,85,0.706,0.8,100.011,259333
+Yeah, yeah, yeah, yeah25Embed",85,0.706,0.8,100.011,259333
 6,2006,7,Crazy,Gnarls Barkley,"107 ContributorsTranslationsTürkçeDanskCrazy Lyrics[Verse 1]
 I remember when
 I remember, I remember when I lost my mind
@@ -552,7 +552,7 @@ Probably
 Mm-woah, ooh
 Ooh, woo-ooh
 Ooh, ooh
-Ooh-hoo, mm-hmm100Embed",4zfQER4owi8q6NL8Gg63Ya,89,0.809,0.836,125.953,199964
+Ooh-hoo, mm-hmm100Embed",89,0.809,0.836,125.953,199964
 7,2006,8,Ridin',Chamillionaire Featuring Krayzie Bone,"4 ContributorsRap Critic Reviews: “Ridin’” by Chamillionaire feat. Krayzie Bone” LyricsHi. I'm the Rap Critic. Let's talk about Chamillionaire. Now, back in the mid 2000's, there was a short time when Texas was all the rage in Hip-Hop. For a brief 2 or 3 years, you couldn't escape Houston rappers such as Mike Jones, Paul Wall, Lil Flip, and even old school cats like UGK started coming back on the scene. But among these emcees, few of them had as big a hit as Chamillionaire with Ridin', a forceful tune with a vibrating bass line, thumping drums, driving synths, and an unforgettable hook that brought him a number one hit on the billboard charts. Although, for a song that was such a club banger, it was actually an anthem against racial prejudice embedded in the American Police force, the likes of which we hadn't seen achieve such popularity since… well, N.W.A. For those who don't know, the phrase ""ridin' dirty"" refers to having something illegal in your car while driving, usually drugs. And in the context of the chorus...
 
 They see me rollin, They hatin
@@ -668,7 +668,7 @@ Yeah, take THAT, One time! Your racial prejudice blew up right in your face, giv
 
 Well, overall, I'd give this song a 3 out of 5. A LOT of this song is carried on a stellar hook and fun, bouncy production, and both emcees are quite lyrical with their delivery, by the end of the song encapsulating a lot of the distrust that black people in general have against the police. However, the constant deviations from the topic, most of which only serve to brag about getting chicks, being intoxicated and violent, ultimately fulfill the same role that racist cops look for when persecuting black people, and despite it still being drenched with tight wordplay, that fact alone throws out a lot of that goodwill. It's still a better than average song, and attempted to do more than typical mainstream rap song was doing at the time, but unfortunately, it didn't focus on delivering the topic strong enough to rate it higher
 
-Well, I'm the Rap Critic. You don't have to like my opinion, but before you ask, of COURSE I loved the Weird Al parody. you'd have to be some kind of moron to not love Weird Al, man…1Embed",6BaxqcoEM9r3LXisTyJjST,67,0.442,0.83,89.338,215747
+Well, I'm the Rap Critic. You don't have to like my opinion, but before you ask, of COURSE I loved the Weird Al parody. you'd have to be some kind of moron to not love Weird Al, man…1Embed",67,0.442,0.83,89.338,215747
 8,2006,9,SexyBack,Justin Timberlake,"67 ContributorsSexyBack Lyrics[Verse 1: Justin Timberlake & Timbaland]
 I'm bringin' sexy back (Yeah)
 Them other boys don't know how to act (Yeah)
@@ -764,7 +764,7 @@ Get your sexy on
 [Outro: Justin Timberlake]
 You ready? (Yes)
 You ready? (Yes)
-(Yes)58Embed",0O45fw2L5vsWpdsOdXwNAR,82,0.967,0.583,117.0,242733
+(Yes)58Embed",82,0.967,0.583,117.0,242733
 9,2006,10,Check On It,Beyonce Featuring Slim Thug,"18 ContributorsCheck on It Lyrics[Intro: Swizz Beatz & Slim Thug]
 Swizz Beatz
 DC, Destiny Child (Slim Thuga)
@@ -880,7 +880,7 @@ I'ma let you work up on it (I'm gonna work it, baby, you're mine)
 Ladies, let 'em check up on it
 Watch it while he check up on it (All mine, all mine)
 Dip it, pop it, twerk it, stop it
-Check on me tonight3Embed",2RWxrpsFshOBFwRBRstUlQ,61,0.705,0.796,166.042,210453
+Check on me tonight3Embed",61,0.705,0.796,166.042,210453
 10,2007,1,Irreplaceable,Beyonce,"61 ContributorsIrreplaceable Lyrics[Intro]
 To the left, to the left
 To the left, to the left
@@ -976,7 +976,7 @@ You can pack all your bags, we're finished
 (You must not know 'bout me, me)
 I can have another you by tomorrow
 Don't you ever for a second get to thinking
-You're irreplaceable24Embed",6RX5iL93VZ5fKmyvNXvF1r,73,0.447,0.694,175.868,227853
+You're irreplaceable24Embed",73,0.447,0.694,175.868,227853
 11,2007,2,Umbrella,Rihanna Featuring Jay-Z,"132 ContributorsUmbrella Lyrics[Intro: JAY-Z]
 Uh-huh, uh-huh (Yeah, Rihanna)
 Uh-huh, uh-huh (Good Girl Gone Bad)
@@ -1083,7 +1083,7 @@ Come into me
 Come into me
 It's pourin' rain
 It's pourin' rain
-Come into me79Embed",2yPoXCs7BSIUrucMdK5PzV,75,0.583,0.829,174.028,275987
+Come into me79Embed",75,0.583,0.829,174.028,275987
 12,2007,3,The Sweet Escape,Gwen Stefani Featuring Akon,"61 ContributorsThe Sweet Escape Lyrics[Intro: Akon]
 Konvict, Konvict, Konvict
 Woo-hoo, yee-hoo
@@ -1163,7 +1163,7 @@ I wanna get away (Get away) to our sweet escape (Sweet escape)
 I wanna get away (Get away), yeah (Yeah)
 [Outro: Akon]
 (Woo-hoo, yee-hoo, woo-hoo, yee-hoo)
-(Woo-hoo, yee-hoo, woo-hoo, yee-hoo)25Embed",66ZcOcouenzZEnzTJvoFmH,76,0.756,0.77,119.961,246467
+(Woo-hoo, yee-hoo, woo-hoo, yee-hoo)25Embed",76,0.756,0.77,119.961,246467
 13,2007,4,Big Girls Don't Cry,Fergie,"1 ContributorSound Track of my life Lyrics1) When I was born (1997)
 Tu Angelito soy y.- Chino y Nacho
 2) When my parents to the U.S (1998- Stop and stare
@@ -1174,7 +1174,7 @@ Big girls don't cry- Fergie
 5) When My mother left home (2005) But she is far, far away and i'd anything just to see her face - Tyga
 6) First time at the beach(2009)Let's go to the beach, each let's go get away. Nicki Minaj
 7)My Sweet 15(2011): Moment for life - Nicki Minaj
-8)First time driving my dad's car: Yeeeeeyeeeah, yeah, yeah, yeah,I'm feeling like a star, you can't stop my shine, I'm loving cloud nine, my head's in the sky,I'm solo, I'm riding solo, I'm riding solo, I'm ridin solo, sooloooo - Ridin solo- Jason Darulo See Yuridia LiveGet tickets as low as $26You might also likeEmbed",4AniPkv5vgdE1n6VKreiyI,69,0.707,0.642,113.083,268120
+8)First time driving my dad's car: Yeeeeeyeeeah, yeah, yeah, yeah,I'm feeling like a star, you can't stop my shine, I'm loving cloud nine, my head's in the sky,I'm solo, I'm riding solo, I'm riding solo, I'm ridin solo, sooloooo - Ridin solo- Jason Darulo See Yuridia LiveGet tickets as low as $26You might also likeEmbed",69,0.707,0.642,113.083,268120
 14,2007,5,Buy U A Drank (Shawty Snappin'),T-Pain Featuring Yung Joc,"80 ContributorsBuy U A Drank (Shawty Snappin’) Lyrics[Intro: T-Pain & Yung Joc]
 (Shawty snap)
 Yeah, T-Pain
@@ -1261,7 +1261,7 @@ I got money in the bank
 Shawty, what you think 'bout that?
 I'll be in the grey Cadillac
 We in the bed like, ooh, ooh, ooh, woah, woah, ooh, ooh
-We in the bed like, ooh, ooh, woah, ooh, woah, woah, ooh, ooh, woah52Embed",1tkMs9wDPknQ3ZHcKDw1ES,79,0.693,0.549,80.028,227960
+We in the bed like, ooh, ooh, woah, ooh, woah, woah, ooh, ooh, woah52Embed",79,0.693,0.549,80.028,227960
 15,2007,6,Before He Cheats,Carrie Underwood,"68 ContributorsBefore He Cheats Lyrics[Verse 1]
 Right now, he's probably slow dancing
 With a bleached-blonde tramp
@@ -1313,7 +1313,7 @@ Maybe next time, he'll think before he cheats
 [Outro]
 Oh, maybe next time, he'll think before he cheats
 Oh, before he cheats
-Oh29Embed",0ZUo4YjG4saFnEJhdWp9Bt,82,0.519,0.749,147.905,199947
+Oh29Embed",82,0.519,0.749,147.905,199947
 16,2007,7,Hey There Delilah,Plain White T's,"140 ContributorsHey There Delilah Lyrics[Verse 1]
 Hey there, Delilah, what's it like in New York City?
 I'm a thousand miles away, but girl, tonight, you look so pretty, yes you do
@@ -1375,7 +1375,7 @@ What you do to me
 [Outro]
 Ho-oh, woah-oh, woah oh-oh oh-oh
 Oh-oh, woah oh-oh oh woah
-Oh oh-woah oh-oh, ooh-ooh, ooh-ooh115Embed",4RCWB3V8V0dignt99LZ8vH,81,0.656,0.291,103.971,232533
+Oh oh-woah oh-oh, ooh-ooh, ooh-ooh115Embed",81,0.656,0.291,103.971,232533
 17,2007,8,I Wanna Love You,Akon Featuring Snoop Dogg,"41 ContributorsI Wanna Love You Lyrics[Intro: Akon]
 Konvict
 Konvict, Music, and you know we Upfront
@@ -1451,7 +1451,7 @@ I wanna love you (Love you), you already know
 I see you windin' and grindin' up on the floor
 I know you see me lookin' at you and you already know
 I wanna love you (Love you), you already know
-I wanna love you (Love you), you already know, girl, girl18Embed",0CXVjQI9wsqaGeIARkkpYc,77,0.866,0.454,99.985,247067
+I wanna love you (Love you), you already know, girl, girl18Embed",77,0.866,0.454,99.985,247067
 18,2007,9,Say It Right,Nelly Furtado,"58 ContributorsTranslationsPortuguêsSay It Right Lyrics[Intro: Timbaland]
 Frk-frk-down
 Hey
@@ -1505,7 +1505,7 @@ You don't mean nothin' at all to me
 Hey, hey
 Hey, hey, hey
 You don't mean nothin' at all to me
-Hey, hey33Embed",2aI21FnmY7TJVKeMaoQZ0t,83,0.872,0.872,116.948,223080
+Hey, hey33Embed",83,0.872,0.872,116.948,223080
 19,2007,10,Glamorous,Fergie Featuring Ludacris,"58 ContributorsGlamorous Lyrics[Intro: Polow Da Don]
 Are you ready?
 
@@ -1611,7 +1611,7 @@ He let his daughter know
 (He said, ""If you ain't got no money, take yo' broke ass home, you say it!)
 My daddy told me so
 (""If you ain't got no money, take yo' broke ass home!"")
-He let his daughter know31Embed",4KTtYhxFtFL7mBwnjkKfLm,74,0.81,0.755,130.991,246573
+He let his daughter know31Embed",74,0.81,0.755,130.991,246573
 20,2008,1,Low,Flo Rida Featuring T-Pain,"105 ContributorsLow Lyrics[Intro: Flo Rida & T-Pain]
 Hmm-mmm-mmm-mmm-mmm-mmm
 Let me talk to 'em, let me talk to 'em
@@ -1705,7 +1705,7 @@ Shawty got low-low-low-low-low-low-low-low
 Them baggy sweatpants and the Reeboks with the straps (With the straps)
 She turned around and gave that big booty a smack (Ayy!)
 She hit the flo' (She hit the flo'), next thing you know
-Shawty got low-low-low-low-low-low-low-low (Come on)46Embed",2GAhgAjOhEmItWLfgisyOn,84,0.698,0.546,145.044,181080
+Shawty got low-low-low-low-low-low-low-low (Come on)46Embed",84,0.698,0.546,145.044,181080
 21,2008,2,Bleeding Love,Leona Lewis,"65 ContributorsBleeding Love Lyrics[Intro]
 Hey
 
@@ -1787,7 +1787,7 @@ Ooh, you cut me open and I
 [Outro]
 Keep bleedin'
 Keep, keep bleeding love
-Hey33Embed",7wZUrN8oemZfsEd1CGkbXE,79,0.638,0.656,104.036,262467
+Hey33Embed",79,0.638,0.656,104.036,262467
 22,2008,3,No One,Alicia Keys,"53 ContributorsNo One Lyrics[Verse 1]
 I just want you close
 Where you can stay forever
@@ -1845,7 +1845,7 @@ Oh-oh-oh-oh-oh, oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
 Oh, oh-oh-oh-oh-oh, oh-oh-oh-oh-oh
-Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh, oh58Embed",0mZ5GyrHG908lqrHaTw4hi,76,0.641,0.552,90.098,254524
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh, oh58Embed",76,0.641,0.552,90.098,254524
 23,2008,4,Lollipop,Lil Wayne Featuring Static Major,"145 ContributorsLollipop Lyrics[Produced by Jim Jonsin & Deezle]
 
 [Intro: Lil Wayne]
@@ -1978,7 +1978,7 @@ She— She lick me like a lollipop, l-lollipop
 I said he's so sweet, make her wanna lick the wrapper
 She-She-She lick me like a lollipop
 (What you do?) So I let her lick the rapper
-She— She lick me like a lollipop55Embed",3cDyocF0Ibdfs1SFQk5cLZ,90,0.822,0.711,102.984,199947
+She— She lick me like a lollipop55Embed",90,0.822,0.711,102.984,199947
 24,2008,5,Apologize,Timbaland Featuring OneRepublic,"46 ContributorsApologize Lyrics[Intro: Timbaland]
 Ayy, ayy, ayy
 Ayy, ayy, ayy
@@ -2030,11 +2030,11 @@ I said it's too late to apologize, yeah
 
 [Outro: Ryan Tedder]
 I'm holding on your rope
-Got me ten feet off the ground44Embed",1NrJYpdAi7uosDRPmSYrsG,72,0.593,0.74,118.008,208107
+Got me ten feet off the ground44Embed",72,0.593,0.74,118.008,208107
 25,2008,6,No Air,Jordin Sparks Duet With Chris Brown,"""No Air"" by Jordin Sparks & Chris Brown:
     40 ContributorsNo Air Lyrics[Intro: Jordin Sparks]
     Tell me how I'm supposed to breathe with no air
-    O...",0u9NVrPqUINrHIFCuPOnYm,73,0.429,0.197,128.49,243709
+    O...",73,0.429,0.197,128.49,243709
 26,2008,7,Love Song,Sara Bareilles,"45 ContributorsLove Song Lyrics[Verse 1]
 Head underwater and they tell me
 To breathe easy for a while
@@ -2104,7 +2104,7 @@ If your heart is nowhere in it, I don't want it for a minute
 Babe, I'll walk the seven seas (Walk the seven seas)
 When I believe that there's a reason
 To write you (Write you) a love song today
-Today (Yeah), yeah24Embed",3DZQ6mzUkAdHqZWzqxBKIK,76,0.71,0.598,119.981,256320
+Today (Yeah), yeah24Embed",76,0.71,0.598,119.981,256320
 27,2008,8,Love In This Club,Usher Featuring Young Jeezy,"28 ContributorsLove in This Club Lyrics[Intro: Usher]
 Gotta do it for the ladies
 And I gotta keep it hood
@@ -2198,7 +2198,7 @@ In this club (Hey)
 I wanna make love in this club (Hey)
 In this club (Hey)
 In this club (Hey)
-In this club (Hey)18Embed",5j0McHPthKpOXRr3fBq8M0,75,0.573,0.712,140.012,259720
+In this club (Hey)18Embed",75,0.573,0.712,140.012,259720
 28,2008,9,With You,Chris Brown,"43 ContributorsWith You Lyrics[Intro]
 I need you, boo
 I gotta see you, boo
@@ -2287,7 +2287,7 @@ What I feel when I'm
 With you, with you, with you, with you, with you, girl
 With you, with you, with you, with you, with you, oh
 With you, with you, with you, with you, with you, with you
-Only with you, with you, with you, with you, with you, babe, yeah52Embed",34SQ0QfLSR316d8KL2zkuZ,73,0.558,0.66,75.009,220893
+Only with you, with you, with you, with you, with you, babe, yeah52Embed",73,0.558,0.66,75.009,220893
 29,2008,10,Forever,Chris Brown,"44 ContributorsForever Lyrics[Intro]
 One, two, three, four
 Hey, hey (Forever)
@@ -2363,7 +2363,7 @@ Forever on the dance floor
 Oh, oh, oh-oh-oh-oh-oh
 Oh-oh-oh, yeah
 Forever, ever, ever, ever
-Forever, ever, ever27Embed",2enPRFda84VE2wtI8c86Uf,83,0.174,0.742,163.378,223747
+Forever, ever, ever27Embed",83,0.174,0.742,163.378,223747
 30,2009,1,Boom Boom Pow,The Black Eyed Peas,"4 ContributorsMy Name LyricsThis a nitty beat
 Hey Yea Say nitty lets gon on and take em back one time
 (La la la la, la la la)
@@ -2427,7 +2427,7 @@ I can take ya back make ya wanna do the runnin man
 Mc hammer thats throw back, country grammer I know that
 I'm gone like a woman when she fed up
 I can take it back like a Danny Glover edge up (way back)
--CHORUS-Embed",3opVsyWVYEAFK9bJAG8Opa,68,0.866,0.857,130.049,251440
+-CHORUS-Embed",68,0.866,0.857,130.049,251440
 31,2009,2,Poker Face,Lady Gaga,"186 ContributorsTranslationsTürkçeEspañolPortuguêsEnglishPoker Face Lyrics[Intro]
 Mum mum mum mah
 Mum mum mum mah
@@ -2531,7 +2531,7 @@ P-p-p-poker face, f-f-fuck her face
 P-p-p-poker face, f-f-fuck her face
 (Mum mum mum mah)
 P-p-p-poker face, f-f-fuck her face
-(Mum mum mum mah)93Embed",5R8dQOPq8haW94K7mgERlO,81,0.851,0.806,118.999,237200
+(Mum mum mum mah)93Embed",81,0.851,0.806,118.999,237200
 32,2009,3,Just Dance,Lady Gaga Featuring Colby O'Donis,"4 ContributorsTranslationsEnglishDeutschPortuguêsLady Gaga - Just Dance ft. Colby O’Donis (Traducción al Español) Lyrics[Letra de ""Lady Gaga - Just Dance ft. Colby O'Donis (Traducción al Español)""]
 
 [Intro: Lady Gaga & (Akon)]
@@ -2635,7 +2635,7 @@ Gira ese disco, nena
 Da-da-doo-doot-n, sólo baila
 Va a estar bien
 Da-da-da-da-dance, baila, baila
-Solo bailaEmbed",2x7MyWybabEz6Y6wvHuwGE,78,0.822,0.739,118.992,241933
+Solo bailaEmbed",78,0.822,0.739,118.992,241933
 33,2009,4,I Gotta Feeling,The Black Eyed Peas,"15 ContributorsHits of the 2000s [TOP 64] Lyrics2000
 #1 Breathe by Faith Hill vs. #4 I Wanna Know by Joe
 #2 Smooth by Santana vs. #3 Maria Maria by Santana
@@ -2683,7 +2683,7 @@ Solo bailaEmbed",2x7MyWybabEz6Y6wvHuwGE,78,0.822,0.739,118.992,241933
 #2 Dark Horse by Katy Perry & Juicy J vs. #3 All Of Me by John Legend
 2015
 #1 Uptown Funk by Mark Ronson & Bruno Mars vs. #4 Trap Queen by Fetty Wap
-#2 Thinking Out Loud by Ed Sheeran vs. #3 See You Again by Wiz Khalifa & Charlie Puth10Embed",2H1047e0oMSj10dgp7p2VG,79,0.744,0.766,127.966,289133
+#2 Thinking Out Loud by Ed Sheeran vs. #3 See You Again by Wiz Khalifa & Charlie Puth10Embed",79,0.744,0.766,127.966,289133
 34,2009,5,Love Story,Taylor Swift,"148 ContributorsTranslationsFrançaisEspañolPortuguêsDeutschLove Story Lyrics[Verse 1]
 We were both young when I first saw you
 I close my eyes and the flashback starts
@@ -2748,7 +2748,7 @@ It's a love story, baby, just say 'Yes'""
 [Outro]
 Oh, oh, oh
 Oh, oh, oh
-'Cause we were both young when I first saw you178Embed",1vrd6UOGamcKNGnSHJQlSt,70,0.618,0.741,118.984,235267
+'Cause we were both young when I first saw you178Embed",70,0.618,0.741,118.984,235267
 35,2009,6,Right Round,Flo Rida,"46 ContributorsRight Round Lyrics[Chorus: Flo Rida & Kesha]
 You spin my head right round, right round
 When you go down, when you go down, down
@@ -2838,7 +2838,7 @@ When you go down, when you go down, down (Hey)
 You spin my head right round, right round (Hey)
 When you go down, when you go down, down (Hey)
 You spin my head right round, right round (Hey)
-When you go down, when you go down, down (Hey)24Embed",3GpbwCm3YxiWDvy29Uo3vP,80,0.72,0.672,124.986,204640
+When you go down, when you go down, down (Hey)24Embed",80,0.72,0.672,124.986,204640
 36,2009,7,I'm Yours,Jason Mraz,"97 ContributorsTranslationsPortuguêsΕλληνικάI’m Yours Lyrics[Verse 1]
 Well you done done me in; you bet I felt it
 I tried to be chill but you're so hot that I melted
@@ -2898,7 +2898,7 @@ So please don't, please don't, please don't (No need to complicate)
 There's no need to complicate (Our time is short)
 'Cause our time is short (This is)
 This oh, this oh, this is our fate (our fate)
-I'm yours135Embed",5ClnW65Z82Mqu4QFwf69YU,75,0.79,0.858,137.894,167015
+I'm yours135Embed",75,0.79,0.858,137.894,167015
 37,2009,8,Single Ladies (Put A Ring On It),Beyonce,"77 ContributorsTranslationsPortuguêsSingle Ladies (Put a Ring on It) Lyrics[Produced by Beyoncé, The-Dream & Tricky Stewart]
 
 [Intro]
@@ -2983,7 +2983,7 @@ Woah-oh-oh
 If you like it, then you should've put a ring on it
 Don't be mad once you see that he want it
 If you like it, then you should've put a ring on it
-Woah-oh-oh27Embed",2ZBNclC5wm4GtiWaeh0DMx,69,0.426,0.584,193.437,193213
+Woah-oh-oh27Embed",69,0.426,0.584,193.437,193213
 38,2009,9,Heartless,Kanye West,"211 ContributorsTranslationsSvenskaTürkçeDeutschFrançaisEspañolEnglishPortuguêsDanskHeartless Lyrics[Chorus]
 In the night, I hear 'em talk
 The coldest story ever told
@@ -3057,7 +3057,7 @@ Oh, how could you be so heartless?
 
 [Outro]
 On and on and on and on
-And on and, and on and on and on218Embed",4EWCNWgDS8707fNSZ1oaA5,91,0.79,0.647,87.999,211000
+And on and, and on and on and on218Embed",91,0.79,0.647,87.999,211000
 39,2009,10,Gives You Hell,The All-American Rejects,"77 ContributorsGives You Hell Lyrics[Verse 1]
 I wake up every evenin'
 With a big smile on my face
@@ -3122,7 +3122,7 @@ Then you're the fool, I'm just as well, hope it gives you hell (Hope it gives yo
 [Outro]
 When you hear this song, I hope that it will give you hell
 (Hope it gives you hell)
-You can sing along, I hope that it puts you through hell49Embed",6ihL9TjfRjadfEePzXXyVF,73,0.718,0.691,100.008,213107
+You can sing along, I hope that it puts you through hell49Embed",73,0.718,0.691,100.008,213107
 40,2010,1,TiK ToK,Ke$ha,"109 ContributorsTranslationsPortuguêsHrvatskiTiK ToK Lyrics[Verse 1]
 Wake up in the morning feelin' like P. Diddy (Hey, what up, girl?)
 Grab my glasses, I'm out the door, I'm gonna hit this city (Let's go)
@@ -3186,7 +3186,7 @@ Oh, woah, woah, oh, oh, woah, woah, oh
 Don't stop, make it pop, DJ, blow my speakers up
 Tonight, I'ma fight 'til we see the sunlight
 Tick tock on the clock, but the party don't stop, no
-Oh, woah, woah, oh, oh, woah, woah, oh60Embed",0HPD5WQqrq7wPWR7P7Dw1i,86,0.755,0.837,120.028,199693
+Oh, woah, woah, oh, oh, woah, woah, oh60Embed",86,0.755,0.837,120.028,199693
 41,2010,2,Need You Now,Lady Antebellum,"42 ContributorsTranslationsEspañolNeed You Now Lyrics[Intro: Hillary Scott & Charles Kelley]
 ""Hey, sorry I missed your call, just leave a message after the beep""
 ""Hey, yeah, it's me, just been thinking about everything tonight
@@ -3234,7 +3234,7 @@ I just need you now
 
 [Outro: Hillary Scott with Charles Kelley & Hillary Scott]
 I just need you now
-Oh baby, I need you now39Embed",11EX5yhxr9Ihl3IN1asrfK,73,0.587,0.622,107.943,277573
+Oh baby, I need you now39Embed",73,0.587,0.622,107.943,277573
 42,2010,3,"Hey, Soul Sister",Train,"82 ContributorsHey, Soul Sister Lyrics[Intro]
 Hey
 Hey
@@ -3306,7 +3306,7 @@ Tonight
 Hey
 Hey
 Hey
-Tonight65Embed",4HlFJV71xXKIGcU3kRyttv,86,0.673,0.886,97.012,216773
+Tonight65Embed",86,0.673,0.886,97.012,216773
 43,2010,4,California Gurls,Katy Perry Featuring Snoop Dogg,"21 ContributorsTranslationsEnglishPortuguêsKaty Perry - California Gurls ft. Snoop Dogg (Traducción al Español) Lyrics[Letra de ""Katy Perry - California Gurls ft. Snoop Dogg (Traducción al Español)""]
 
 [Intro: Snoop Dogg]
@@ -3398,7 +3398,7 @@ Chicas de California, hombre
 (California)  Hahahaha
 (Chicas de California)
 De verdad que desearía que todas pudieran ser chicas de California
-.2Embed",6KOEK6SeCEZOQkLj5M1PxH,75,0.788,0.753,125.005,234653
+.2Embed",75,0.788,0.753,125.005,234653
 44,2010,5,OMG,Usher Featuring will.i.am,"28 ContributorsOMG Lyrics[Intro: will.i.am & Usher]
 Oh my gosh
 Baby, let me
@@ -3508,7 +3508,7 @@ Oh my, my, my, my, my, my, oh my gosh
 (Oh oh oh-oh oh, oh oh oh-oh)
 Oh-oh-oh my, oh oh
 Oh my, my, my, my, my, my, oh my gosh
-(Oh oh oh-oh oh, oh oh oh-oh)15Embed",65FftemJ1DbbZ45DUfHJXE,87,0.804,0.771,126.956,212253
+(Oh oh oh-oh oh, oh oh oh-oh)15Embed",87,0.804,0.771,126.956,212253
 45,2010,6,Airplanes,B.o.B Featuring Hayley Williams,"5 Contributors2pac & Eminem - Airplanes ft. B.O.B, Hayley Williams (Remix) Lyrics[Hook: Hayley Williams]
 Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now
@@ -3626,7 +3626,7 @@ I could really use a wish right now
 Wish right now, wish right now
 Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now
-Wish right now, wish right now1Embed",6lV2MSQmRIkycDScNtrBXO,78,0.66,0.867,93.033,180480
+Wish right now, wish right now1Embed",78,0.66,0.867,93.033,180480
 46,2010,7,Love The Way You Lie,Eminem Featuring Rihanna,"353 ContributorsTranslationsTürkçeEspañolPortuguêsΕλληνικάEnglishالعربيةDeutschLove the Way You Lie Lyrics[Chorus: Rihanna]
 Just gonna stand there and watch me burn?
 Well, that's all right because I like the way it hurts
@@ -3711,7 +3711,7 @@ Well, that's all right because I like the way it hurts
 Just gonna stand there and hear me cry?
 Well, that's all right because I love the way you lie
 I love the way you lie
-I love the way you lie306Embed",15JINEqzVMv3SvJTAXAKED,89,0.749,0.925,86.989,263373
+I love the way you lie306Embed",89,0.749,0.925,86.989,263373
 47,2010,8,Bad Romance,Lady Gaga,"132 ContributorsTranslationsEspañolPortuguêsBad Romance Lyrics[Intro]
 Oh, caught in a bad romance
 Oh, caught in a bad romance
@@ -3825,7 +3825,7 @@ Caught in a bad romance
 Ra, ra, ah-ah-ah
 Roma, roma-ma
 Gaga, ooh, la, la
-Want your bad romance72Embed",0SiywuOBRcynK0uKGWdCnn,87,0.696,0.921,119.001,294573
+Want your bad romance72Embed",87,0.696,0.921,119.001,294573
 48,2010,9,Dynamite,Taio Cruz,"47 ContributorsTranslationsPortuguêsDynamite Lyrics[Verse 1]
 I came to dance, dance, dance, dance (Yeah)
 I hit the floor 'cause that's my plans, plans, plans, plans (Yeah)
@@ -3903,7 +3903,7 @@ Like it's dynamite
 'Cause I told you once
 Now I told you twice
 We gon' light it up
-Like it's dynamite22Embed",1DqdF42leyFIzqNDv9CjId,73,0.754,0.804,119.968,203867
+Like it's dynamite22Embed",73,0.754,0.804,119.968,203867
 49,2010,10,Break Your Heart,Taio Cruz Featuring Ludacris,"18 ContributorsBreak Your Heart (Remix) Lyrics[Intro: Ludacris]
 Luda
 Now I may not be the worst or the best
@@ -3980,7 +3980,7 @@ I'm only gonna break, break your, break, break your heart
 Woah-oh-oh-oh-oh
 Woah-oh-oh-oh-oh
 Woah-oh-oh-oh-oh
-Woah-oh-oh-oh-oh18Embed",1CdqVF1ywD0ZO1zXtB9yWa,70,0.666,0.899,122.05,186267
+Woah-oh-oh-oh-oh18Embed",70,0.666,0.899,122.05,186267
 50,2011,1,Rolling In The Deep,Adele,"100 ContributorsTranslationsFrançaisEspañolPortuguêsΕλληνικάفارسیالعربيةRolling in the Deep Lyrics[Verse 1]
 There's a fire starting in my heart
 Reaching a fever pitch and it's bringing me out the dark
@@ -4044,7 +4044,7 @@ Could've had it all (You're gonna wish you never had met me)
 Rolling in the deep (Tears are gonna fall, rolling in the deep)
 You had my heart inside of your hand (You're gonna wish you never had met me)
 But you played it, you played it, you played it
-You played it to the beat154Embed",1c8gk2PeTE04A1pIDH9YMk,83,0.73,0.769,104.948,228093
+You played it to the beat154Embed",83,0.73,0.769,104.948,228093
 51,2011,2,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,"138 ContributorsTranslationsPortuguêsParty Rock Anthem Lyrics[Intro: Redfoo]
 Party Rock
 Yeah
@@ -4136,7 +4136,7 @@ Put yo', put yo' (Woo!)
 Put yo', put yo' (Hands up)
 Put your hands up
 Put your hands up
-Put your hands up27Embed",0IkKz2J93C94Ei4BvDop7P,72,0.75,0.727,129.993,262173
+Put your hands up27Embed",72,0.75,0.727,129.993,262173
 52,2011,3,Firework,Katy Perry,"126 ContributorsTranslationsPortuguêsTürkçeFirework Lyrics[Verse 1]
 Do you ever feel like a plastic bag
 Drifting through the wind, wanting to start again?
@@ -4207,7 +4207,7 @@ You're gonna leave 'em all in awe, awe, awe
 ""Boom, boom, boom""
 Even brighter than the moon, moon, moon
 ""Boom, boom, boom""
-Even brighter than the moon, moon, moon86Embed",4r6eNCsrZnQWJzzvFh4nlg,75,0.638,0.832,124.071,227893
+Even brighter than the moon, moon, moon86Embed",75,0.638,0.832,124.071,227893
 53,2011,4,E.T.,Katy Perry Featuring Kanye West,"2 ContributorsTranslationsEnglishKaty Perry - E.T. (Remix) ft. Kanye West (Tradução em Português) Lyrics[Tradução de ""E.T. (Remix)"", de Katy Perry & Kanye West]
 
 [Intro: Kanye West]
@@ -4297,7 +4297,7 @@ Seu toque é de outro mundo
 Extraterrestre, extraterrestre
 Garoto, você é um alienígena
 Seu toque é de outro mundo
-É sobrenatural, extraterrestre1Embed",60a0Rd6pjrkxjPbaKzXjfq,90,0.556,0.864,105.143,216880
+É sobrenatural, extraterrestre1Embed",90,0.556,0.864,105.143,216880
 54,2011,5,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer","85 ContributorsTranslationsPortuguêsGive Me Everything Lyrics[Intro: Pitbull]
 Me not workin' hard?
 Yeah, right, picture that with a Kodak
@@ -4434,7 +4434,7 @@ And I might take you home with me
 If I could tonight (I could tonight)
 And, baby, I'ma make you feel
 So good, tonight (Good)
-'Cause we might not get tomorrow, woo (Get tomorrow)29Embed",4QNpBfC0zvjKqPJcyqBy9W,86,0.671,0.939,129.024,252307
+'Cause we might not get tomorrow, woo (Get tomorrow)29Embed",86,0.671,0.939,129.024,252307
 55,2011,6,Grenade,Bruno Mars,"133 ContributorsTranslationsPortuguêsFrançaisGrenade Lyrics[Verse 1]
 Easy come, easy go
 That's just how you live, oh
@@ -4511,7 +4511,7 @@ But you won't do the same
 No, you won't do the same
 You wouldn't do the same
 Ooh, you'd never do the same
-No, no, no, no, oh-oh-oh115Embed",2tJulUYLDKOg9XrtVkMgcJ,81,0.704,0.558,110.444,222091
+No, no, no, no, oh-oh-oh115Embed",81,0.704,0.558,110.444,222091
 56,2011,8,Super Bass,Nicki Minaj,"168 ContributorsTranslationsPortuguêsSuper Bass Lyrics[Intro: Nicki Minaj]
 Yeah, yeah, yeah, hey
 
@@ -4616,7 +4616,7 @@ Boom, boom, boom (Bass)
 Boom, badoom, boom, boom, badoom, boom, bass
 He got that super bass
 Boom, badoom, boom, boom, badoom, boom, bass
-Yeah, that's that super bass (Yo, yo)137Embed",3hlksXnvbKogFdPbpO9vel,84,0.723,0.86,126.979,200013
+Yeah, that's that super bass (Yo, yo)137Embed",84,0.723,0.86,126.979,200013
 57,2011,9,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,"82 ContributorsTranslationsDeutschفارسیMoves Like Jagger Lyrics[Intro: Adam Levine]
 Oh, na
 Oh
@@ -4702,7 +4702,7 @@ I don't need to try to control you (Yeah, uh; Ooh)
 Look into my eyes and I'll own you (Oh-oh)
 With them moves like Jagger
 I've got them moves like Jagger
-I've got them moves like Jagger48Embed",7LcfRTgAVTs5pQGEQgUEzN,75,0.722,0.758,128.047,201160
+I've got them moves like Jagger48Embed",75,0.722,0.758,128.047,201160
 58,2011,10,Just Can't Get Enough,The Black Eyed Peas,"2 ContributorsLET US BREATHE LyricsINTRO SPEECH:
 
 
@@ -4822,7 +4822,7 @@ Until we're set free
 LET US BREATHE…
 
 
-The endEmbed",0xuXRQJfxmdP6gvfDe2Z4L,66,0.765,0.766,128.177,222760
+The endEmbed",66,0.765,0.766,128.177,222760
 59,2011,11,On The Floor,Jennifer Lopez Featuring Pitbull,"77 ContributorsTranslationsTürkçeΕλληνικάOn the Floor Lyrics[Intro: Pitbull & Jennifer Lopez]
 JLo!
 Ya tú sabes, no es más nada
@@ -4918,7 +4918,7 @@ Tonight, we gon' be it on the floor
 La-la-la-la-la-la-la-la-la-la-la-la-la-la (Let's rock)
 Tonight, we gon' be it on the floor (Woo!)
 Tonight, we gon' be it on the floor
-Tonight, we gon' be it on the floor211Embed",5MMZJtHOiH1RmQSSe3DJdg,74,0.389,0.431,142.14,211851
+Tonight, we gon' be it on the floor211Embed",74,0.389,0.431,142.14,211851
 60,2012,1,Somebody That I Used To Know,Gotye Featuring Kimbra,"152 ContributorsTranslationsTürkçeEspañolРусскийDeutschSomebody That I Used to Know Lyrics[Verse 1: Gotye]
 Now and then, I think of when we were together
 Like when you said you felt so happy, you could die
@@ -4973,7 +4973,7 @@ Somebody (Now, you're just somebody that I used to know)
 (I used to know)
 (That I used to know)
 (I used to know)
-Somebody232Embed",4wCmqSrbyCgxEXROQE6vtV,78,0.864,0.495,129.062,244973
+Somebody232Embed",78,0.864,0.495,129.062,244973
 61,2012,2,Call Me Maybe,Carly Rae Jepsen,"162 ContributorsTranslationsالعربيةDeutschEspañolCall Me Maybe Lyrics[Verse 1]
 I threw a wish in the well
 Don't ask me, I'll never tell
@@ -5042,7 +5042,7 @@ But here's my number, so call me, maybe
 Before you came into my life, I missed you so bad
 I missed you so bad, I missed you so, so bad
 Before you came into my life, I missed you so bad
-And you should know that, so call me, maybe72Embed",3TGRqZ0a2l1LRblBkJoaDx,75,0.783,0.58,120.021,193400
+And you should know that, so call me, maybe72Embed",75,0.783,0.58,120.021,193400
 62,2012,3,We Are Young,fun. Featuring Janelle Monae,"178 ContributorsTranslationsDeutschWe Are Young Lyrics[Verse 1: Nate Ruess]
 Give me a second I, I need to get my story straight
 My friends are in the bathroom getting
@@ -5116,7 +5116,7 @@ We can burn brighter than the sun
 [Outro: Nate Ruess]
 So if by the time the bar closes
 And you feel like fallin' down
-I'll carry you home tonight109Embed",7a86XRg84qjasly9f6bPSD,76,0.378,0.638,184.086,250627
+I'll carry you home tonight109Embed",76,0.378,0.638,184.086,250627
 63,2012,4,Payphone,Maroon 5 Featuring Wiz Khalifa,"140 ContributorsTranslationsPortuguêsPayphone Lyrics[Chorus: Adam Levine]
 I'm at a payphone, tryin' to call home
 All of my change I spent on you
@@ -5211,7 +5211,7 @@ If happy-ever-after's did exist (Oh)
 I would still be holdin' you like this
 And all these fairytales are full of shit (Yeah)
 One more fuckin' love song, I'll be sick
-Yeah, now, I'm at a payphone100Embed",4P0osvTXoSYZZC2n8IFH3c,74,0.739,0.756,110.028,231387
+Yeah, now, I'm at a payphone100Embed",74,0.739,0.756,110.028,231387
 64,2012,5,Lights,Ellie Goulding,"59 ContributorsTranslationsItalianoEspañolPortuguêsLights Lyrics[Verse 1]
 I had a way then
 Losing it all on my own
@@ -5270,7 +5270,7 @@ You shine it when I'm alone (Home)
 Home, home (Lights, lights, lights, lights)
 (Lights, lights, lights, lights)
 Home, home (Lights, lights, lights, lights)
-(Lights, lights, lights, lights)45Embed",5TRPicyLGbAF2LGBFbHGvO,90,0.639,0.628,90.482,237507
+(Lights, lights, lights, lights)45Embed",90,0.639,0.628,90.482,237507
 65,2012,6,Glad You Came,The Wanted,"45 ContributorsTranslationsPortuguêsGlad You Came Lyrics[Chorus: Max George]
 The sun goes down, the stars come out
 And all that counts is here and now
@@ -5333,7 +5333,7 @@ I'm glad you came
 The sun goes down, the stars come out
 And all that counts is here and now
 My universe will never be the same
-I'm glad you came, I'm glad you came43Embed",5yDL13y5giogKs2fSNf7sj,81,0.722,0.851,126.885,197936
+I'm glad you came, I'm glad you came43Embed",81,0.722,0.851,126.885,197936
 66,2012,7,Stronger (What Doesn't Kill You),Kelly Clarkson,"42 ContributorsTranslationsΕλληνικάStronger (What Doesn’t Kill You) Lyrics[Verse 1]
 You know the bed feels warmer
 Sleepin' here alone (Sleepin' here alone)
@@ -5407,7 +5407,7 @@ Stand a little taller (Taller)
 Doesn't mean I'm lonely when I'm alone (What doesn't kill you)
 
 [Outro]
-When I'm alone21Embed",6D60klaHqbCl9ySc8VcRss,69,0.562,0.939,116.044,221947
+When I'm alone21Embed",69,0.562,0.939,116.044,221947
 67,2012,8,We Found Love,Rihanna Featuring Calvin Harris,"3 ContributorsWe Found Love / Alone (Mixed) Lyrics[Chorus]
 I been tryna give it to you all night
 What's it gonna take to get you all alone?
@@ -5441,7 +5441,7 @@ I don't wanna be here, baby, on my own
 Yeah, don't you wait, don't think about it
 Yeah, don't you wait, just come on over now
 I been tryna give it to you all night
-What's it gonna take to get you all alone?Embed",6qn9YLKt13AGvpq9jfO8py,87,0.734,0.766,127.986,215227
+What's it gonna take to get you all alone?Embed",87,0.734,0.766,127.986,215227
 68,2012,9,Starships,Nicki Minaj,"153 ContributorsTranslationsPortuguêsStarships Lyrics[Intro]
 RedOne
 Uh
@@ -5516,7 +5516,7 @@ Can't stop
 [Drop]
 We're higher than a motherfucka
 We're higher than a motherfucka
-We're higher than a motherfucka72Embed",1oHNvJVbFkexQc0BpQp7Y4,78,0.747,0.716,125.008,210627
+We're higher than a motherfucka72Embed",78,0.747,0.716,125.008,210627
 69,2012,10,What Makes You Beautiful,One Direction,"131 ContributorsTranslationsEspañolPortuguêsWhat Makes You Beautiful Lyrics[Verse 1: Liam]
 You're insecure, don't know what for
 You're turnin' heads when you walk through the door
@@ -5580,7 +5580,7 @@ Right now I'm looking at you and I can't believe
 You don't know (Don't know), oh-oh, you don't know you're beautiful, oh-oh
 You don't know you're beautiful, oh-oh
 That's what makes you beautiful
-[Written By Savan Kotecha]78Embed",4cluDES4hQEUhmXj6TXkSo,86,0.726,0.787,124.99,199987
+[Written By Savan Kotecha]78Embed",86,0.726,0.787,124.99,199987
 70,2013,1,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,"326 ContributorsTranslationsFrançaisThrift Shop Lyrics[Intro]
 Hey, Macklemore, can we go thrift shopping?
 What-what, what, what?
@@ -5686,7 +5686,7 @@ This is fucking awesome
 
 [Outro]
 Hahaha
-Is that your grandma's coat?179Embed",6CjtS2JZH9RkDz5UVInsa9,83,0.781,0.526,94.993,235613
+Is that your grandma's coat?179Embed",83,0.781,0.526,94.993,235613
 71,2013,2,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,"244 ContributorsTranslationsPortuguêsBlurred Lines Lyrics[Intro: Pharrell Williams & Robin Thicke]
 Everybody get up
 Everybody get up
@@ -5828,7 +5828,7 @@ Everybody get up
 Everybody get up
 Hey, hey, hey
 Hey, hey, hey
-Hey, hey, hey111Embed",0n4bITAu0Y0nigrz3MFJMb,78,0.853,0.599,119.993,263827
+Hey, hey, hey111Embed",78,0.853,0.599,119.993,263827
 72,2013,3,Radioactive,Imagine Dragons,"179 ContributorsTranslationsPortuguêsDeutschEspañolRadioactive Lyrics[Intro]
 Woah, oh-oh
 Woah, oh-oh
@@ -5894,7 +5894,7 @@ Welcome to the new age, to the new age
 Woah-oh, woah
 I'm radioactive, radioactive
 Woah-oh, woah
-I'm radioactive, radioactive328Embed",4G8gkOterJn0Ywt6uhqbhp,76,0.448,0.784,136.245,186813
+I'm radioactive, radioactive328Embed",76,0.448,0.784,136.245,186813
 73,2013,4,Harlem Shake,Baauer,"37 ContributorsHarlem Shake Lyrics[Pre-Chorus]
 Con los terroristas, -tas, -tas, -tas
 -tas -tas -tas -tas, -tas -tas -tas -tas -tas
@@ -5920,7 +5920,7 @@ Ey, (Shake!) ey (Shake!)
 Shake, shake
 Shake, ey (Shake!)
 Ey (Shake!), ey (Shake!)
-Ey (Shake!)You might also like7Embed",01XFgRZfZI7oBagNf1Loml,58,0.452,0.794,137.825,196664
+Ey (Shake!)You might also like7Embed",58,0.452,0.794,137.825,196664
 74,2013,5,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,"5 ContributorsRadio Hamburg TOP 825 Lyrics825 ALL NIGHT – PAROV STELAR
 824 BIG JET PLANE – ANGUS & JULIA STONE
 823 SWINGS BOTH WAYS – ROBBIE WILLIAMS
@@ -6868,7 +6868,7 @@ SHAKIRA FEAT. RIHANNA#Die Top 2020 BLURRED LINES - ROBIN THICKE FEAT. PHARELL WI
 4 TIMBER - PITBULL FEAT. KE$HA
 3 ATEMLOS DURCH DIE NACHT - HELENE FISCHER
 2 WAVES - MR. PROBZ
-1 HAPPY - PHARREL WILLIAMSYou might also like4Embed",2kFLi6xkCjT3b4FiL0ucKl,37,0.639,0.117,97.732,73469
+1 HAPPY - PHARREL WILLIAMSYou might also like4Embed",37,0.639,0.117,97.732,73469
 75,2013,6,Mirrors,Justin Timberlake,"207 ContributorsTranslationsEspañolDeutschPortuguêsMirrors Lyrics[Verse 1]
 Aren't you somethin' to admire?
 'Cause your shine is somethin' like a mirror
@@ -7044,7 +7044,7 @@ You are, you are the love of my life
 You are, you are the love of my life
 You are, you are the love of my life
 You are, you are the love of my life
-You are, you are the love of my life239Embed",4rHZZAmHpZrA3iH5zx8frV,85,0.574,0.512,76.899,484147
+You are, you are the love of my life239Embed",85,0.574,0.512,76.899,484147
 76,2013,7,Just Give Me A Reason,P!nk Featuring Nate Ruess,"90 ContributorsTranslationsΕλληνικάJust Give Me a Reason Lyrics[Verse 1: P!nk]
 Right from the start
 You were a thief, you stole my heart
@@ -7127,7 +7127,7 @@ Oh-oh, we can learn to love again
 Oh-oh, can learn to love again
 Oh-oh
 That we're not broken, just bent
-And we can learn to love again80Embed",1mKXFLRA179hdOWQBwUk9e,85,0.778,0.547,95.002,242733
+And we can learn to love again80Embed",85,0.778,0.547,95.002,242733
 77,2013,8,When I Was Your Man,Bruno Mars,"99 ContributorsTranslationsالعربيةWhen I Was Your Man Lyrics[Verse 1]
 Same bed, but it feels just a little bit bigger now
 Our song on the radio, but it don't sound the same
@@ -7185,7 +7185,7 @@ Take you to every party
 Do all the things I should've done
 When I was your man
 Do all the things I should've done
-When I was your man180Embed",0nJW01T7XtvILxQgC5J7Wh,90,0.612,0.28,72.795,213827
+When I was your man180Embed",90,0.612,0.28,72.795,213827
 78,2013,9,Cruise,Florida Georgia Line Featuring Nelly,"2 ContributorsTurn Up for Hick Hop? Lyrics""The mixtape's got a little Hank, little Drake""
 
 So says country superstar duo Florida Georgia Line in their smash single from the spring of 2014, “This Is How We Roll.”  This is not just an empty boast, either.  Listen to the second verse while perhaps imagining Drake as a white, Southern, bro-country artist:
@@ -7213,7 +7213,7 @@ The same Johnny Cash who was the OG Southern thug!  The same Johnny Cash who put
 ""I shot a man in Reno just to watch him die""
 We’re talking the “Man In Black” himself!
 
-I think he’d welcome the chance, were he still alive, to pal around with some new school gangsters, and, presented with an opportunity for a remix, would probably choose to turn up instead of turn it down!9Embed",0i5el041vd6nxrGEU8QRxy,72,0.457,0.948,148.0,208960
+I think he’d welcome the chance, were he still alive, to pal around with some new school gangsters, and, presented with an opportunity for a remix, would probably choose to turn up instead of turn it down!9Embed",72,0.457,0.948,148.0,208960
 79,2013,10,Roar,Katy Perry,"110 ContributorsTranslationsPortuguêsΕλληνικάFrançaisفارسیTürkçeRoar Lyrics[Verse 1]
 I used to bite my tongue and hold my breath
 Scared to rock the boat and make a mess
@@ -7294,7 +7294,7 @@ Oh-oh-oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh-oh-oh
 You're gonna hear me roar
 [Video Directed by Grady Hall & Mark Kudsi]
-[Produced by Dr. Luke & Max Martin]99Embed",27tNWlhdAryQY04Gb2ZhUI,82,0.671,0.771,90.003,223546
+[Produced by Dr. Luke & Max Martin]99Embed",82,0.671,0.771,90.003,223546
 80,2014,1,Happy,Pharrell Williams,"169 ContributorsTranslationsPortuguêsΕλληνικάFrançaisHappy Lyrics[Produced by Pharrell Williams]
 
 [Verse 1]
@@ -7376,7 +7376,7 @@ Clap along if you feel like happiness is the truth
 (Because I'm happy)
 Clap along if you know what happiness is to you
 (Because I'm happy)
-Clap along if you feel like that's what you wanna do (Come on)885Embed",3ZEno9fORwMA1HPecdLi0R,78,0.732,0.855,106.004,242691
+Clap along if you feel like that's what you wanna do (Come on)885Embed",78,0.732,0.855,106.004,242691
 81,2014,2,Dark Horse,Katy Perry Featuring Juicy J,"8 Contributors2014 EMAs Nominees and Winners LyricsBest Song
 
 Ariana Grande (featuring Iggy Azalea) — ""Problem"" (WINNER)
@@ -7524,7 +7524,7 @@ Southeast Asia/China & Hong Kong/Taiwan: (China) Bibi Zhou (WINNER)
 
 Global Icon
 
-Ozzy Osbourne8Embed",4jbmgIyjGoXjY01XxatOx6,84,0.647,0.585,131.934,215672
+Ozzy Osbourne8Embed",84,0.647,0.585,131.934,215672
 82,2014,3,All Of Me,John Legend,"182 ContributorsTranslationsEspañolPortuguêsΕλληνικάDeutschالعربيةFrançaisAll of Me Lyrics[Verse 1]
 What would I do without your smart mouth?
 Drawing me in and you kicking me out
@@ -7594,7 +7594,7 @@ And you give me all of you
 
 [Outro]
 I give you all of me
-And you give me all of you, oh-oh872Embed",2FoahzOSxJnalPA8aBUme3,85,0.653,0.805,159.947,198293
+And you give me all of you, oh-oh872Embed",85,0.653,0.805,159.947,198293
 83,2014,4,Fancy,Iggy Azalea Featuring Charli XCX,"33 ContributorsGrammys Predictions 2015 LyricsBEST RAP PERFORMANCE• Childish Gambino - 3005
 • Drake - 0 To 100 / The Catch Up
 • Eminem - Rap God
@@ -7653,7 +7653,7 @@ Predictions
 Winner
 
 
-.7Embed",3fpTMuD1u3gJlVI4FadVHs,75,0.53,0.884,87.194,319387
+.7Embed",75,0.53,0.884,87.194,319387
 84,2014,5,Counting Stars,OneRepublic,"207 ContributorsTranslationsTürkçeΕλληνικάCounting Stars Lyrics[Intro]
 Lately, I've been, I've been losin' sleep
 Dreamin' about the things that we could be
@@ -7745,7 +7745,7 @@ Sink in the river, the lessons I've learned
 Take that money, watch it burn
 Sink in the river, the lessons I've learned
 Take that money, watch it burn
-Sink in the river, the lessons I've learned428Embed",2tpWsVSb9UEmDRxAl1zhX1,90,0.664,0.705,122.016,257267
+Sink in the river, the lessons I've learned428Embed",90,0.664,0.705,122.016,257267
 85,2014,6,Talk Dirty,Jason Derulo Featuring 2 Chainz,"131 ContributorsTalk Dirty Lyrics[Intro: Jason Derulo & Rie Abe]
 Jason, hehehe
 Jason Derulo
@@ -7828,7 +7828,7 @@ Talk dirty to me (Talk to me, ah, ah, ooh)
 Talk dirty to me (Oh yeah, oh)
 Get Jazzy on 'em
 [Outro: Rie Abe]
-What? I don't understand295Embed",6g6A7qNhTfUgOSH7ROOxTD,70,0.76,0.652,100.315,177685
+What? I don't understand295Embed",70,0.76,0.652,100.315,177685
 86,2014,7,Rude,MAGIC!,"120 ContributorsTranslationsPortuguêsΕλληνικάRude Lyrics[Verse 1]
 Saturday mornin', jumped outta bed and put on my best suit
 Got in my car and raced like a jet all the way to you
@@ -7890,7 +7890,7 @@ I'm gonna marry her anyway
 (Marry that girl) And we'll be a family
 Why you gotta be so rude?
 Why, why, why, why?
-(Say) Say, why you gotta be so rude?232Embed",6RtPijgfPKROxEzTHNRiDp,84,0.773,0.758,144.033,224840
+(Say) Say, why you gotta be so rude?232Embed",84,0.773,0.758,144.033,224840
 87,2014,8,All About That Bass,Meghan Trainor,"133 ContributorsTranslationsFrançaisTürkçeDeutschAll About That Bass Lyrics[Chorus]
 Because you know I'm all about that bass
 'Bout that bass, no treble
@@ -7962,7 +7962,7 @@ Hey-hey, ooh
 You know you love this bass
 Ah-ah-ah-ah-ah-ah, yeah
 Haha
-[Click here to read about when Meghan Trainor met her co-writer on this song, Kevin Kadish]359Embed",5jE48hhRu8E6zBDPRSkEq7,75,0.807,0.887,134.052,187920
+[Click here to read about when Meghan Trainor met her co-writer on this song, Kevin Kadish]359Embed",75,0.807,0.887,134.052,187920
 88,2014,9,Problem,Ariana Grande Featuring Iggy Azalea,"8 Contributors2014 EMAs Nominees and Winners LyricsBest Song
 
 Ariana Grande (featuring Iggy Azalea) — ""Problem"" (WINNER)
@@ -8110,7 +8110,7 @@ Southeast Asia/China & Hong Kong/Taiwan: (China) Bibi Zhou (WINNER)
 
 Global Icon
 
-Ozzy Osbourne8Embed",0sY6ZUTh4yoctD8VIXz339,83,0.462,0.24,171.319,244000
+Ozzy Osbourne8Embed",83,0.462,0.24,171.319,244000
 89,2014,10,Stay With Me,Sam Smith,"96 ContributorsTranslationsFrançaisStay With Me Lyrics[Verse 1]
 Guess it's true, I'm not good at a one-night stand
 But I still need love 'cause I'm just a man
@@ -8145,7 +8145,7 @@ But darling, stay with me
 Oh, won't you stay with me?
 'Cause you're all I need
 This ain't love, it's clear to see
-But darling, stay with me460Embed",5Nm9ERjJZ5oyfXZTECKmRt,87,0.418,0.42,84.094,172724
+But darling, stay with me460Embed",87,0.418,0.42,84.094,172724
 90,2015,1,Uptown Funk!,Mark Ronson Featuring Bruno Mars,"3 Contributors2015 Winners & Nominees LyricsAll winners in bold
 
 Best Newcomer
@@ -8278,7 +8278,7 @@ Faith Child
 Paving The Way Awards
 
 Wiley
-Lenny Henry1Embed",32OlwWuMpZ6b0aN2RZOeMS,86,0.856,0.609,114.988,269667
+Lenny Henry1Embed",86,0.856,0.609,114.988,269667
 91,2015,2,Thinking Out Loud,Ed Sheeran,"189 ContributorsTranslationsTürkçeEspañolPortuguêsItalianoΕλληνικάFrançaisThinking Out Loud Lyrics[Verse 1]
 When your legs don't work like they used to before
 And I can't sweep you off of your feet
@@ -8330,7 +8330,7 @@ And kiss me under the light of a thousand stars, oh, darlin'
 Place your head on my beatin' heart, I'm thinkin' out loud
 That maybe we found love right where we are
 Oh, maybe we found love right where we are
-And we found love right where we are876Embed",34gCuhDGsG4bRPIf9bb02f,85,0.781,0.445,78.998,281560
+And we found love right where we are876Embed",85,0.781,0.445,78.998,281560
 92,2015,3,See You Again,Wiz Khalifa Featuring Charlie Puth,"1 ContributorSee You Again LyricsIt's been a long day without you, my friend
 And I'll tell you all about it when I see you again
 We've come a long way from where we began
@@ -8401,7 +8401,7 @@ When I see you again
 Aah oh, aah oh
 Wooooh-oh-oh-oh-oh-oh
 Yeah
-When I see you againEmbed",7KA4W4McWYRpgf0fWsJZWB,92,0.558,0.559,78.558,180387
+When I see you againEmbed",92,0.558,0.559,78.558,180387
 93,2015,4,Trap Queen,Fetty Wap,"247 ContributorsTrap Queen Lyrics[Intro]
 RGF productions
 Remy Boyz, yah-ah
@@ -8485,7 +8485,7 @@ Money on the wood make the game go good
 Money out of sight cause fights
 Put up or shut up, huh?
 Nitt Da Gritt, RGF Productions
-Squad3.2KEmbed",2d8JP84HNLKhmd6IYOoupQ,78,0.746,0.873,148.075,222093
+Squad3.2KEmbed",78,0.746,0.873,148.075,222093
 94,2015,5,Sugar,Maroon 5,"103 ContributorsTranslationsPortuguêsFrançaisDeutschSugar Lyrics[Verse 1]
 I'm hurting, baby, I'm broken down
 I need your loving, loving, I need it now
@@ -8561,7 +8561,7 @@ Yeah, you show me good loving, make it alright
 Need a little sweetness in my life
 Your sugar, yes, please (Your sugar, yes, please)
 Won't you come and put it down on me?
-(Down on me, down on me, ooh)271Embed",2iuZJX9X9P0GKaE93xcPjk,83,0.748,0.788,120.076,235493
+(Down on me, down on me, ooh)271Embed",83,0.748,0.788,120.076,235493
 95,2015,6,Shut Up And Dance,WALK THE MOON,"90 ContributorsShut Up and Dance Lyrics[Chorus]
 ""Oh, don't you dare look back
 Just keep your eyes on me""
@@ -8633,7 +8633,7 @@ She said, ooh-ooh, shut up and dance with me
 
 [Post-Chorus]
 Ooh-ooh, shut up and dance with me
-Ooh-ooh, shut up and dance with me93Embed",4kbj5MwxO1bq9wjT5g9HaA,86,0.578,0.866,128.038,199080
+Ooh-ooh, shut up and dance with me93Embed",86,0.578,0.866,128.038,199080
 96,2015,7,Blank Space,Taylor Swift,"239 ContributorsTranslationsDeutschSlovenščinaУкраїнськаالعربيةTürkçeEspañolPortuguêsPolskiΕλληνικάFrançaisBlank Space Lyrics[Verse 1]
 Nice to meet you, where you been?
 I could show you incredible things
@@ -8724,7 +8724,7 @@ Or with a nasty scar (With a nasty scar)
 Got a long list of ex-lovers
 They'll tell you I'm insane
 But I've got a blank space, baby
-And I'll write your name1KEmbed",1p80LdxRV74UKvL8gnD7ky,78,0.753,0.678,96.006,231827
+And I'll write your name1KEmbed",78,0.753,0.678,96.006,231827
 97,2015,8,Watch Me,Silento,"1 ContributorWatch me whip LyricsNow watch me whip (kill it!)
 Now watch me nae nae (okay!)
 Now watch me whip whip
@@ -8801,7 +8801,7 @@ Ooh ooh ooh ooh
 Ooh watch me, watch me
 Ooh watch me, watch me
 Ooh watch me, watch me
-Ooh ooh ooh oohYou might also likeEmbed",0ukPlkEhhWPQWKq5b2awnn,80,0.747,0.693,119.921,150267
+Ooh ooh ooh oohYou might also likeEmbed",80,0.747,0.693,119.921,150267
 98,2015,9,Earned It (Fifty Shades Of Grey),The Weeknd,"2 ContributorsEarned It (Fifty Shades Of Grey) (Marian Hill Remix) Lyrics[Intro]
 I'ma care for you
 I'ma care for you, you, you, you
@@ -8869,7 +8869,7 @@ Yeah, yeah
 The way you work it
 You deserve it
 Girl, you deserve it
-Girl, you earned it, yeah, yeahEmbed",2PIvq1pGrUjY007X5y1UpM,78,0.659,0.381,119.844,252227
+Girl, you earned it, yeah, yeahEmbed",78,0.659,0.381,119.844,252227
 99,2015,10,The Hills,The Weeknd,"363 ContributorsTranslationsTürkçeEspañolРусскийPortuguêsFrançaisفارسیPolskiPortuguêsDeutschItalianoThe Hills Lyrics[Intro]
 Yeah
 Yeah
@@ -8941,7 +8941,7 @@ Yene konjo, ewedihalehu
 Yene fikir, fikir, fikir, fikir
 Yene fikir, fikir, fikir, fikir
 Ewedihalehu
-Yene konjo, ewedihalehu...1.8KEmbed",7fBv7CLKzipRk6EC6TWHOB,90,0.585,0.564,113.003,242253
+Yene konjo, ewedihalehu...1.8KEmbed",90,0.585,0.564,113.003,242253
 100,2016,1,Love Yourself,Justin Bieber,"217 ContributorsTranslationsEspañolPortuguêsLove Yourself Lyrics[Produced by Benny Blanco]
 
 [Verse 1]
@@ -9008,7 +9008,7 @@ You should go and love yourself
 'Cause if you like the way you look that much
 Oh baby, you should go and love yourself
 And if you think that I'm still holdin' on to somethin'
-You should go and love yourself150Embed",50kpGaPAhYJ3sGmk6vplg0,87,0.609,0.378,100.418,233720
+You should go and love yourself150Embed",87,0.609,0.378,100.418,233720
 101,2016,2,Sorry,Justin Bieber,"197 ContributorsTranslationsEspañolPortuguêsFrançaisالعربيةSorry Lyrics[Written by Julia Michaels, Justin Tranter, and Justin Bieber]
 
 [Verse 1]
@@ -9062,7 +9062,7 @@ I'm sorry, yeah
 Sorry, oh
 Sorry
 Yeah, I know that I let you down (I know I let you down)
-Is it too late to say I'm sorry now?101Embed",09CtPGIpYB4BrO8qb1RGsF,86,0.654,0.76,99.945,200787
+Is it too late to say I'm sorry now?101Embed",86,0.654,0.76,99.945,200787
 102,2016,3,One Dance,Drake Featuring WizKid & Kyla,"5 ContributorsTranslationsEnglishEspañolPolskiDeutschFrançaisDrake - One Dance ft. Wizkid & Kyla (Türkçe Çeviri) Lyrics[Refrain: Kyla]
 Senin tarzını seviyorum bebek
 
@@ -9144,7 +9144,7 @@ Yüksek güçler beni tutuyor
 Bir dansa ihtiyacım var
 Elimde bir Hennessy var
 Gitmeden önce bir kez daha
-Yüksek güçler beni tutuyorEmbed",1zi7xx7UVEFkmKfv06H8x0,90,0.792,0.625,103.967,173987
+Yüksek güçler beni tutuyorEmbed",90,0.792,0.625,103.967,173987
 103,2016,4,Work,Rihanna Featuring Drake,"9 Contributors2017 Nominees LyricsSong of the Year“Formation”— Beyoncé
 “Hello” — Adele
 “I Took A Pill In Ibiza” — Mike Posner
@@ -9295,7 +9295,7 @@ Love Remains — Hillary Scott &The Scott FamilyProducer of the Year:Benny Blanc
 Greg Kurstin
 Max Martin
 Nineteen85
-Ricky ReedYou might also like1Embed",2wAJTrFhCnQyNSD3oUgTZO,85,0.831,0.427,93.004,235320
+Ricky ReedYou might also like1Embed",85,0.831,0.427,93.004,235320
 104,2016,5,Stressed Out,twenty one pilots,"328 ContributorsTranslationsEnglishРусскийPortuguêsNederlandsAzərbaycanca / آذربايجانΕλληνικάHebrewTürkçeFrançaisStressed Out Lyrics[Verse 1]
 I wish I found some better sounds no one's ever heard
 I wish I had a better voice that sang some better words
@@ -9356,7 +9356,7 @@ We used to play pretend, wake up, you need the money
 Used to play pretend, give each other different names
 We would build a rocket ship and then we'd fly it far away
 Used to dream of outer space, but now they're laughin' at our face
-Sayin', ""Wake up, you need to make money!,"" yeah518Embed",3CRDbSIZ4r5MsZ0YwxuEkn,88,0.734,0.637,169.977,202333
+Sayin', ""Wake up, you need to make money!,"" yeah518Embed",88,0.734,0.637,169.977,202333
 105,2016,6,Panda,Desiigner,"576 ContributorsTranslationsРусскийPortuguêsEspañolPanda Lyrics[Intro]
 You are now listening to the hottest producer with the hottest beats on the net, Menace
 This what they all been waitin' for? I guess so (Grrah)
@@ -9482,7 +9482,7 @@ Hope you killers understand me
 [Outro]
 Panda, Panda (Grrah)
 Panda, Panda, Panda, Panda, Panda, Panda, Panda, Panda
-[Produced by Menace]383Embed",5YEOzOojehCqxGQCcQiyR4,72,0.576,0.766,144.833,246761
+[Produced by Menace]383Embed",72,0.576,0.766,144.833,246761
 106,2016,7,Hello,Adele,"218 ContributorsTranslationsTürkçeEnglishPortuguêsEspañolFrançaisBahasa IndonesiaالعربيةHello Lyrics[Verse 1]
 Hello, it's me
 I was wondering if, after all these years, you'd like to meet
@@ -9544,7 +9544,7 @@ Hello from the outside (Outside)
 At least, I can say that I've tried (I've tried)
 To tell you I'm sorry for breaking your heart
 But it don't matter, it clearly doesn't tear you apart anymore
-[Music Video]260Embed",62PaSfnXSMyLshYJrlTuL3,76,0.578,0.43,78.991,295502
+[Music Video]260Embed",76,0.578,0.43,78.991,295502
 107,2016,8,Don't Let Me Down,The Chainsmokers Featuring Daya,"128 ContributorsTranslationsPortuguêsDon’t Let Me Down Lyrics[Verse 1]
 Crashin', hit a wall
 Right now, I need a miracle
@@ -9613,7 +9613,7 @@ Don't let me down, no, oh
 
 [Outro]
 Don't let me down
-Don't let me down, down, down63Embed",11FcfHd3SOmmrWJPGe7Y30,66,0.424,0.446,139.701,336733
+Don't let me down, down, down63Embed",66,0.424,0.446,139.701,336733
 108,2016,9,Can't Stop The Feeling!,Justin Timberlake,"118 ContributorsTranslationsPortuguêsCAN’T STOP THE FEELING! Lyrics[Verse 1]
 I got this feelin' inside my bones
 It goes electric, wavey when I turn it on
@@ -9714,7 +9714,7 @@ Got this feelin' in my body, come on
 Break it down
 Got this feelin' in my body (Uh)
 I can't stop the feelin'
-Got this feeling in my body, come on (Ooh)39Embed",1WkMMavIMc4JZ8cfMmxHkI,76,0.669,0.832,113.035,237547
+Got this feeling in my body, come on (Ooh)39Embed",76,0.669,0.832,113.035,237547
 109,2016,10,Closer,The Chainsmokers Featuring Halsey,"9 Contributors2017 Nominees LyricsSong of the Year“Formation”— Beyoncé
 “Hello” — Adele
 “I Took A Pill In Ibiza” — Mike Posner
@@ -9865,7 +9865,7 @@ Love Remains — Hillary Scott &The Scott FamilyProducer of the Year:Benny Blanc
 Greg Kurstin
 Max Martin
 Nineteen85
-Ricky ReedYou might also like1Embed",7BKLCZ1jbUBVqRi2FVlTVw,86,0.748,0.524,95.01,244960
+Ricky ReedYou might also like1Embed",86,0.748,0.524,95.01,244960
 110,2017,1,Shape Of You,Ed Sheeran,"348 ContributorsTranslationsTürkçeEspañolPortuguêsΕλληνικάDeutschFrançaisItalianoالعربيةShape of You Lyrics[Verse 1]
 A club isn't the best place to find a lover
 So the bar is where I go (Mm)
@@ -9974,7 +9974,7 @@ Come on, be my baby, come on
 Come on, be my baby, come on
 I'm in love with your body
 Every day, discoverin' somethin' brand new
-I'm in love with the shape of you409Embed",7qiZfU4dY1lWllzX7mPBI3,89,0.825,0.652,95.977,233713
+I'm in love with the shape of you409Embed",89,0.825,0.652,95.977,233713
 111,2017,2,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,"1 ContributorIs Music Really Haram? The Sad Reality of Today’s Music. LyricsIs Music Really Haram?
 
 It’s the question almost everyone wants to argue about and the debate that never seems to end.
@@ -10044,7 +10044,7 @@ And if you were so sure that the things you listen to won’t affect your life, 
 
 And lastly, I know we all have shortcomings and weaknesses, and I know not all of us are the perfect ideal Muslims – but the least we can do is acknowledge that it’s wrong so that perhaps we can start making an effort to change.
 
-May Allah help us all.Embed",6habFhsOp2NvshLv26DqMb,82,0.655,0.797,177.928,229360
+May Allah help us all.Embed",82,0.655,0.797,177.928,229360
 112,2017,3,That's What I Like,Bruno Mars,"195 ContributorsTranslationsFrançaisDeutschThat’s What I Like Lyrics[Verse 1]
 Ayy, ayy, ayy
 I got a condo in Manhattan
@@ -10126,7 +10126,7 @@ Lucky for you, that's what I like, that's what I like (Oh, oh)
 Sex by the fire at night
 Silk sheets and diamonds all white (All white)
 Lucky for you, that's what I like, that's what I like (That's what I like, babe)
-Lucky for you, that's what I like, that's what I like (Ooh, ooh, ooh)97Embed",6673o0Zktb21a5rHhOI64g,43,0.526,0.924,134.03,207253
+Lucky for you, that's what I like, that's what I like (Ooh, ooh, ooh)97Embed",43,0.526,0.924,134.03,207253
 113,2017,4,Humble.,Kendrick Lamar,"1005 ContributorsTranslationsTürkçeEspañolРусскийPortuguêsPolskiAzərbaycanca / آذربايجانDeutschHUMBLE. Lyrics[Intro]
 Nobody pray for me
 It been that day for me
@@ -10201,7 +10201,7 @@ Sit down (Hol' up, sit down, lil', sit down, lil' bitch)
 Be humble (Hol' up, hol' up)
 Bitch, sit down (Hol' up, hol' up, lil' bitch)
 Be humble (Lil' bitch, hol' up, bitch)
-Sit down (Hol' up, hol' up, hol' up, hol' up)1.2KEmbed",7KXjTSCq5nL1LoYtL7XAwS,87,0.908,0.621,150.011,177000
+Sit down (Hol' up, hol' up, hol' up, hol' up)1.2KEmbed",87,0.908,0.621,150.011,177000
 114,2017,5,Something Just Like This,The Chainsmokers & Coldplay,"195 ContributorsTranslationsPortuguêsDeutschفارسیSomething Just Like This Lyrics[Verse 1: Chris Martin]
 I've been reading books of old
 The legends and the myths
@@ -10278,7 +10278,7 @@ I want something just like this
 [Chorus: Chris Martin]
 Oh, I want something just like this
 Oh, I want something just like this
-Oh, I want something just like this126Embed",6RUKPb4LETWmmr3iAEQktW,88,0.617,0.635,103.019,247160
+Oh, I want something just like this126Embed",88,0.617,0.635,103.019,247160
 115,2017,6,Bad And Boujee,Migos Featuring Lil Uzi Vert,"629 ContributorsTranslationsPortuguêsРусскийItalianoAzərbaycanca / آذربايجانPolskiTürkçeBad and Boujee Lyrics[Intro: Offset & Future]
 You know, young rich niggas
 You know somethin', we ain't really never had no old money
@@ -10448,7 +10448,7 @@ We got 30s and hundred-rounds too (Grrah)
 My bitch is bad and bougie (Bad)
 Cookin' up dope with a Uzi (Dope, what?)
 My niggas is savage, ruthless (Hey, yeah)
-We got 30s and hundred-rounds too (Lil Uzi)591Embed",0M9ydKzuF3oZTfYYPfaGX1,76,0.926,0.666,127.079,343150
+We got 30s and hundred-rounds too (Lil Uzi)591Embed",76,0.926,0.666,127.079,343150
 116,2017,7,Closer,The Chainsmokers Featuring Halsey,"9 Contributors2017 Nominees LyricsSong of the Year“Formation”— Beyoncé
 “Hello” — Adele
 “I Took A Pill In Ibiza” — Mike Posner
@@ -10599,7 +10599,7 @@ Love Remains — Hillary Scott &The Scott FamilyProducer of the Year:Benny Blanc
 Greg Kurstin
 Max Martin
 Nineteen85
-Ricky ReedYou might also like1Embed",7BKLCZ1jbUBVqRi2FVlTVw,86,0.748,0.524,95.01,244960
+Ricky ReedYou might also like1Embed",86,0.748,0.524,95.01,244960
 117,2017,8,Body Like A Back Road,Sam Hunt,"56 ContributorsBody Like a Back Road Lyrics[Verse 1]
 Got a girl from the Southside, got braids in her hair
 First time I seen her walk by, man I 'bout fell up out my chair
@@ -10638,7 +10638,7 @@ I'ma take it slow just as fast as I can
 [Outro]
 I'ma take it slow
 Just as fast as I can (Body like a back road, drivin' with my eyes closed)
-Got braids in her hair (I know every curve like the back of my hand)17Embed",7FpBQ067pHB67deawpbbcY,75,0.736,0.458,98.977,162547
+Got braids in her hair (I know every curve like the back of my hand)17Embed",75,0.736,0.458,98.977,162547
 118,2017,9,Believer,Imagine Dragons,"434 ContributorsTranslationsРусскийMagyarTürkçeEspañolDeutschBeliever Lyrics[Verse 1]
 First things first
 I'ma say all the words inside my head
@@ -10717,7 +10717,7 @@ Believer, believer
 Pain! Oh, let the bullets fly, oh, let them rain
 My life, my love, my drive, it came from…
 Pain! You made me a, you made me a
-Believer, believer429Embed",0pqnGHJpmpxLKifKRmU6WP,90,0.776,0.78,124.949,204347
+Believer, believer429Embed",90,0.776,0.78,124.949,204347
 119,2017,10,Congratulations,Post Malone Featuring Quavo,"236 ContributorsTranslationsNederlandsTürkçeCongratulations Lyrics[Intro: Post Malone]
 Yeah, yeah
 Yeah (Hey)
@@ -10792,7 +10792,7 @@ Yeah, we made it (Ayy)
 
 [Outro]
 Hey, hey, hey, hey
-Hey, hey, hey, hey241Embed",3a1lNhkSLSkpJE4MSHpDu9,85,0.63,0.804,123.146,220293
+Hey, hey, hey, hey241Embed",85,0.63,0.804,123.146,220293
 120,2018,1,God's Plan,Drake,"657 ContributorsTranslationsРусскийTürkçeEspañolPolskiItalianoDeutschFrançaisAzərbaycanca / آذربايجانGod’s Plan Lyrics[Intro]
 And they wishin' and wishin'
 And wishin' and wishin', they wishin' on me
@@ -10854,7 +10854,7 @@ Yeah, yeah
 Bad things
 It's a lot of bad things that they wishin' and wishin'
 And wishin' and wishin', they wishin' on me
-Yeah941Embed",3EhZlrrSF5MTwa68SNTwHh,36,0.828,0.371,107.98,118611
+Yeah941Embed",36,0.828,0.371,107.98,118611
 121,2018,2,Perfect,Ed Sheeran,"330 ContributorsTranslationsTürkçeEspañolPortuguêsItalianoΕλληνικάDeutschFrançaisفارسیالعربيةPerfect Lyrics[Verse 1]
 I found a love for me
 Oh, darlin', just dive right in and follow my lead
@@ -10903,7 +10903,7 @@ Baby, I'm dancin' in the dark with you between my arms
 We're barefoot on the grass, oh, listenin' to our favourite song
 I have faith in what I see, now I know I have met
 An angel in person and she looks perfect
-I don't deserve this, you look perfect tonight265Embed",74X2u8JMVooG2QbjRxXwR8,91,0.697,0.82,136.054,159080
+I don't deserve this, you look perfect tonight265Embed",91,0.697,0.82,136.054,159080
 122,2018,3,Meant To Be,Bebe Rexha & Florida Georgia Line,"93 ContributorsTranslationsPortuguêsΕλληνικάMeant to Be Lyrics[Verse 1: Florida Georgia Line]
 Baby, lay on back and relax
 Kick your pretty feet up on my dash
@@ -10970,7 +10970,7 @@ If it's meant to be, it'll be, it'll be
 Baby, if it's meant to be
 If it's meant to be, it'll be, it'll be
 Baby, if it's meant to be
-Hmm53Embed",4e4fqjx0Izh4svvTef1z7e,78,0.642,0.772,153.995,164205
+Hmm53Embed",78,0.642,0.772,153.995,164205
 123,2018,4,Havana,Camila Cabello Featuring Young Thug,"6 ContributorsTranslationsEnglishPortuguêsFrançaisCamila Cabello - Havana ft. Young Thug (Deutsche Übersetzung) Lyrics[Deutscher Songtext zu „Havana“]
 
 [Intro: Pharrell Williams]
@@ -11055,7 +11055,7 @@ Oh na-na-na (oh na, yeah)/i>
 Oh na-na-na
 Oh na-na-na (nein, nein, nein, bring mich zurück)/i>
 Oh na-na-na
-Havana, ooh na-na1Embed",1rfofaqEpACxVEHIZBJe6W,82,0.765,0.523,104.988,217307
+Havana, ooh na-na1Embed",82,0.765,0.523,104.988,217307
 124,2018,5,Rockstar,Post Malone Featuring 21 Savage,"3 ContributorsRecord Of The Year Nominees Lyrics(Award to the Artist and to the Producer(s), Recording Engineer(s) and/or Mixer(s) and mastering engineer(s), if other than the artist.)
 
 • ""I Like It""
@@ -11090,7 +11090,7 @@ Louis Bell & Tank God, producers; Louis Bell & Manny Marroquin, engineers/mixers
 
 • ""The Middle""
 Zedd, Maren Morris & Grey
-Grey, Monsters & Strangerz & Zedd, producers; Grey, Tom Morris, Ryan Shanahan & Zedd, engineers/mixers; Mike Marsh, mastering engineer1Embed",6YOfGIE6iFxC7G8OlGGvzW,88,0.761,0.658,125.036,168677
+Grey, Monsters & Strangerz & Zedd, producers; Grey, Tom Morris, Ryan Shanahan & Zedd, engineers/mixers; Mike Marsh, mastering engineer1Embed",88,0.761,0.658,125.036,168677
 125,2018,6,Psycho,Post Malone Featuring Ty Dolla $ign,"3 ContributorsPsycho (Post Malone ft. Ty dolla $ign) Cover Lyrics[Chorus]
 Damn, my AP goin' psycho, lil' mama bad like Michael
 Can't really trust nobody with all this jewelry on you
@@ -11132,7 +11132,7 @@ Diamonds wet, my t-shirt soaked
 I got homies, let it go, oh
 My money thick, won't ever fold
 She said, ""Can I have some to hold?""
-And I can't ever tell you noEmbed",3kZAm2TC74lBJFPDoV40Qc,73,0.973,0.446,115.039,135340
+And I can't ever tell you noEmbed",73,0.973,0.446,115.039,135340
 126,2018,7,I Like It,"Cardi B, Bad Bunny & J Balvin","260 ContributorsTranslationsNederlandsFrançaisEnglishDeutschI Like It Lyrics[Intro]
 Yeah, baby, I like it like that
 You gotta believe me when I tell you
@@ -11234,7 +11234,7 @@ I said I like it like that
 Diamond district in the chain (I said I like it like that)
 Certified, you know I'm gang, gang (I said I like it like—)
 Drop the top and blow the brains, woo (I said I like it like that)
-Oh, he's so handsome, what's his name? Yeah (I said I like it)165Embed",58q2HKrzhC3ozto2nDdN4z,80,0.816,0.726,136.048,253390
+Oh, he's so handsome, what's his name? Yeah (I said I like it)165Embed",80,0.816,0.726,136.048,253390
 127,2018,8,The Middle,"Zedd, Maren Morris & Grey","107 ContributorsTranslationsDeutschFrançaisThe Middle Lyrics[Verse 1: Maren Morris]
 Take a seat
 Right over there, sat on the stairs
@@ -11298,7 +11298,7 @@ Oh, in the middle
 Baby-y-y, why don't you just meet me in the middle, baby?
 I'm losing my mind just a little
 So why don't you just meet me in the middle, middle?
-In the middle, middle51Embed",6GG73Jik4jUlQCkKg9JuGO,84,0.643,0.849,162.152,165853
+In the middle, middle51Embed",84,0.643,0.849,162.152,165853
 128,2018,9,In My Feelings,Drake,"371 ContributorsTranslationsไทย / Phasa ThaiPortuguêsEspañolDeutschIn My Feelings Lyrics[Intro: Drake]
 Trap, TrapMoneyBenny
 This shit got me in my feelings
@@ -11386,7 +11386,7 @@ BlaqNmilD, you a genius, you diggin' me?
 [Skit: Zazie Beetz]
 You know what, I don't even care, I need a photo with Drake
 Because my Instagram is weak as fuck
-I'm just being real, my shit, look—217Embed",2G7V7zsVDxg1yRsu7Ew9RJ,78,0.835,0.626,91.03,217925
+I'm just being real, my shit, look—217Embed",78,0.835,0.626,91.03,217925
 129,2018,10,Girls Like You,Maroon 5 Featuring Cardi B,"2 ContributorsBest Pop Duo/Group Performance Nominees Lyrics(For new vocal or instrumental duo/group or collaborative pop recordings. Singles or Tracks only.)
 
 • ""Fall In Line""
@@ -11411,7 +11411,7 @@ Track from: Red Pill Blues
 Justin Timberlake Featuring Chris Stapleton
 
 • ""The Middle""
-Zedd, Maren Morris & GreyEmbed",6OEHjJJvdkk1Ln0p0AZdyz,62,0.611,0.462,59.635,215230
+Zedd, Maren Morris & GreyEmbed",62,0.611,0.462,59.635,215230
 130,2019,1,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,"28 ContributorsTranslationsLil Nas X, Billy Ray Cyrus & Diplo - Old Town Road (Diplo Remix) (Traducción al Español)Old Town Road (Diplo Remix) Lyrics[Intro: Billy Ray Cyrus]
 Oh, oh-oh
 Oh
@@ -11474,7 +11474,7 @@ I'm gonna ride 'til I can't no more
 I'm gonna take my horse to the old town road
 I'm gonna ride 'til I can't no more
 I'm gonna take my horse to the old town road
-I'm gonna ride 'til I can't no more3Embed",2YpeDb67231RjR0MgVLzsG,78,0.878,0.619,136.041,157067
+I'm gonna ride 'til I can't no more3Embed",78,0.878,0.619,136.041,157067
 131,2019,2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,"1 ContributorDOPE. 7/29/21 (feat. Lil Nas X) Lyrics1. Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)
 
 2. Post Malone - Motley Crew
@@ -11602,7 +11602,7 @@ I'm gonna ride 'til I can't no more3Embed",2YpeDb67231RjR0MgVLzsG,78,0.878,0.619
 
 65. Roddy Ricch - The Box
 
-66. Baby Keem & Travis Scott - durag activityEmbed",0RiRZpuVRbi7oqRdSMwhQY,87,0.755,0.522,89.96,157560
+66. Baby Keem & Travis Scott - durag activityEmbed",87,0.755,0.522,89.96,157560
 132,2019,3,Without Me,Halsey,"220 ContributorsTranslationsTürkçeEspañolPortuguêsItalianoMagyarFrançaisفارسیDanskالعربيةWithout Me Lyrics[Verse 1]
 Found you when your heart was broke
 I filled your cup until it overflowed
@@ -11669,7 +11669,7 @@ Name in the sky, does it ever get lonely?
 Thinkin' you could live without me
 Thinkin' you could live without me
 Baby, I'm the one who put you up there
-I don't know why (Yeah, I don't know why)198Embed",7lQ8MOhq6IN2w8EYcFNSUk,91,0.908,0.669,112.238,290320
+I don't know why (Yeah, I don't know why)198Embed",91,0.908,0.669,112.238,290320
 133,2019,4,Bad Guy,Billie Eilish,"347 ContributorsTranslationsHrvatskiTürkçeSvenskaEspañolРусскийRomânăPortuguêsPolskiItalianoHebrewDeutschFrançaisفارسیNederlandsDanskChinese TraditionalΕλληνικάالعربيةไทย / Phasa Thai​bad guy Lyrics[Verse 1]
 White shirt now red, my bloody nose
 Sleepin', you're on your tippy toes
@@ -11731,7 +11731,7 @@ But maybe it's 'cause I'm wearing your cologne
 I'm a bad guy
 I'm, I'm a bad guy
 Bad guy, bad guy
-I'm a bad345Embed",2Fxmhks0bxGSBdJ92vM42m,85,0.701,0.425,135.128,194088
+I'm a bad345Embed",85,0.701,0.425,135.128,194088
 134,2019,5,Wow.,Post Malone,"235 ContributorsTranslationsРусскийEspañolNederlandsWow. Lyrics[Verse 1]
 Said she tired of little money, need a big boy
 Pull up 20 inch blades like I'm Lil’ Troy
@@ -11787,7 +11787,7 @@ Got 'em sayin', ""Wow""
 Ayy, ayy, wow
 Sayin', ""Wow""
 Wow
-Wow171Embed",7xQAfvXzm3AkraOtGPWIZg,84,0.829,0.539,99.96,149547
+Wow171Embed",84,0.829,0.539,99.96,149547
 135,2019,6,Happier,Marshmello & Bastille,"256 ContributorsTranslationsEspañolไทย / Phasa ThaiРусскийفارسیHappier Lyrics[Intro]
 Lately, I've been, I've been thinking
 I want you to be happier, I want you to be happier
@@ -11861,7 +11861,7 @@ I want you to be happier, I want you to be happier
 
 [Outro]
 So I'll go, I'll go
-I will go, go, go357Embed",7BqHUALzNBTanL6OvsqmC1,87,0.687,0.792,100.011,214290
+I will go, go, go357Embed",87,0.687,0.792,100.011,214290
 136,2019,7,7 Rings,Ariana Grande,"477 ContributorsTranslationsTürkçeEspañolRomânăPortuguêsPolskiItalianoHebrewΕλληνικάDeutschFrançaisNederlandsDanskفارسیРусский7 rings Lyrics[Verse 1]
 Yeah, breakfast at Tiffany's and bottles of bubbles
 Girls with tattoos who like getting in trouble
@@ -11923,7 +11923,7 @@ If I like it, then that's what I get, yeah
 I want it, I got it, I want it, I got it (Oh yeah)
 I want it, I got it, I want it, I got it (Oh yeah, yeah)
 You like my hair? Gee, thanks, just bought it
-I see it, I like it, I want it, I got it (I see, yep)470Embed",6ocbgoVGwYJhOv1GgI9NsF,87,0.778,0.317,140.048,178627
+I see it, I like it, I want it, I got it (I see, yep)470Embed",87,0.778,0.317,140.048,178627
 137,2019,8,Talk,Khalid,"84 ContributorsTranslationsفارسیEspañolTalk Lyrics[Chorus]
 Can we just talk? Can we just talk?
 Talk about where we're goin'
@@ -11979,7 +11979,7 @@ Can we just talk? Can we just talk?
 Figure out where we're goin'
 
 [Outro]
-Figure out where we're goin'45Embed",0oO1AbL92F6329z13C2qQH,79,0.698,0.763,139.939,174857
+Figure out where we're goin'45Embed",79,0.698,0.763,139.939,174857
 138,2019,9,Sicko Mode,Travis Scott,"891 ContributorsTranslationsEspañolPortuguêsРусскийTürkçeFrançaisSICKO MODE Lyrics[Part I]
 
 [Intro: Drake]
@@ -12101,7 +12101,7 @@ Ain't by the book, yeah, this how it look, yeah
 'Bout a check, yeah (Check), just check the foots, yeah
 Pass this to my daughter, I'ma show her what it took (Yeah)
 Baby mama cover Forbes, got these other bitches shook
-Yeah748Embed",2xLMifQCjDGFmkHkpNLD9h,87,0.834,0.73,155.008,312820
+Yeah748Embed",87,0.834,0.73,155.008,312820
 139,2019,10,Sucker,Jonas Brothers,"171 ContributorsTranslationsDeutschไทย / Phasa ThaiPortuguêsEspañolSucker Lyrics[Verse 1: Nick Jonas]
 We go together
 Better than birds of a feather, you and me
@@ -12161,7 +12161,7 @@ I'm a sucker for all the subliminal things
 No one knows about you (About you), about you (About you)
 And you're makin' the typical me break my typical rules
 It's true, I'm a sucker for you (Uh)
-I'm a sucker for you87Embed",22vgEDb5hykfaTwLuskFGD,82,0.842,0.734,137.958,181027
+I'm a sucker for you87Embed",82,0.842,0.734,137.958,181027
 140,2020,1,Blinding Lights,The Weeknd,"232 ContributorsTranslationsTürkçeSvenskaEspañolSlovenčinaРусскийPortuguêsPolskiNorsk (bokmål / riksmål)日本語ItalianoHebrewDeutschFrançaisفارسیNederlandsDanskShqipالعربيةBlinding Lights Lyrics[Intro]
 Yeah
 
@@ -12216,7 +12216,7 @@ Hey, hey, hey
 
 [Outro]
 I said, ooh, I'm blinded by the lights
-No, I can't sleep until I feel your touch275Embed",0VjIjW4GlUZAMYd2vXMi3b,93,0.514,0.73,171.005,200040
+No, I can't sleep until I feel your touch275Embed",93,0.514,0.73,171.005,200040
 141,2020,2,Circles,Post Malone,"138 ContributorsTranslationsEspañolPortuguêsPolskiDeutschفارسیNederlandsČeskyCircles Lyrics[Intro]
 Oh, oh, oh
 Oh,  oh, oh
@@ -12269,7 +12269,7 @@ Run away, run away
 I dare you to do something
 I'm waiting on you again, so I don't take the blame
 Run away, but we're running in circles
-Run away, run away, run away211Embed",21jGcNKet2qwijlDFuPiPb,89,0.695,0.762,120.042,215280
+Run away, run away, run away211Embed",89,0.695,0.762,120.042,215280
 142,2020,3,The Box,Roddy Ricch,"385 ContributorsTranslationsEspañolPortuguêsDeutschFrançaisفارسیChinese TraditionalAzərbaycanca / آذربايجانРусскийTürkçeThe Box Lyrics[Chorus]
 Pullin' out the coupe at the lot
 Told 'em fuck 12, fuck SWAT
@@ -12338,7 +12338,7 @@ I got the mojo deals, we been trappin' like the '80s
 She sucked a nigga soul, gotta Cash App
 Told 'em wipe a nigga nose, say slatt, slatt
 I won't never sell my soul, and I can back that
-And I really wanna know where you at, at339Embed",0nbXyq5TXYPCO7pr3N8S4I,86,0.896,0.586,116.971,196653
+And I really wanna know where you at, at339Embed",86,0.896,0.586,116.971,196653
 143,2020,4,Don't Start Now,Dua Lipa,"144 ContributorsTranslationsTürkçeEspañolСрпскиРусскийPortuguêsPolskiItalianoDeutschFrançaisفارسیNederlandsDon’t Start Now Lyrics[Intro]
 If you don't wanna see me
 
@@ -12410,7 +12410,7 @@ Walk away, walk away (So)
 Up, up
 Don't come out, out, out
 Don't show up, up, up
-Walk away, walk away, oh109Embed",6o6urrgOIVbIzzmO4KJHCO,42,0.498,0.185,78.775,181347
+Walk away, walk away, oh109Embed",42,0.498,0.185,78.775,181347
 144,2020,5,Rockstar,DaBaby Featuring Roddy Ricch,"4 Contributors2021 Nominees LyricsGENERAL FIELDRecord Of The YearBLACK PARADE
 Beyoncé
 
@@ -13059,7 +13059,7 @@ Jorge Celedon & Sergio Luis
 Grupo Niche
 
 MEMORIAS DE NAVIDAD
-Víctor ManuelleEmbed",6YOfGIE6iFxC7G8OlGGvzW,88,0.761,0.658,125.036,168677
+Víctor ManuelleEmbed",88,0.761,0.658,125.036,168677
 145,2020,6,Adore You,Harry Styles,"120 ContributorsTranslationsTürkçeEspañolPortuguêsPolskiDeutschBahasa IndonesiaAdore You Lyrics[Verse 1: Harry Styles]
 Walk in your rainbow paradise (Paradise)
 Strawberry lipstick state of mind (State of mind)
@@ -13129,7 +13129,7 @@ Ooh, ooh
 Oh, honey
 Ooh, ooh
 Just let me adore you
-Like it's the only thing I'll ever do100Embed",3jjujdWJ72nww5eGnfs2E7,85,0.676,0.771,99.048,207133
+Like it's the only thing I'll ever do100Embed",85,0.676,0.771,99.048,207133
 146,2020,7,Life Is Good,Future Featuring Drake,"220 ContributorsTranslationsРусскийPortuguêsFrançaisLife Is Good Lyrics[Part I]
 
 [Chorus: Drake]
@@ -13221,7 +13221,7 @@ I was in the trap servin' cocaine, I ain't been the same since, woo
 Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch
 Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch, yeah
 Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch, uh
-Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch106Embed",5yY9lUy8nbvjM1Uyo1Uqoc,78,0.676,0.609,142.037,237735
+Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch106Embed",78,0.676,0.609,142.037,237735
 147,2020,8,Memories,Maroon 5,"112 ContributorsTranslationsDeutschFrançaisTürkçePortuguêsPolskiفارسیMemories Lyrics[Chorus]
 Here's to the ones that we got
 Cheers to the wish you were here, but you're not
@@ -13291,7 +13291,7 @@ Memories bring back, memories bring back you
 [Outro]
 Yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah, no, no
-Memories bring back, memories bring back you69Embed",4cktbXiXOapiLBMprHFErI,87,0.775,0.327,91.05,189486
+Memories bring back, memories bring back you69Embed",87,0.775,0.327,91.05,189486
 148,2020,9,The Bones,Maren Morris,"42 ContributorsThe Bones Lyrics[Verse 1]
 We're in the homestretch of the hard times
 We took a hard left, but we're alright
@@ -13339,7 +13339,7 @@ Will blow right over while we stay put
 The house don't fall when the bones are good
 
 [Outro]
-Yeah, ooh9Embed",7yFhA2fUsL2oIMWlw5DaHQ,72,0.612,0.57,77.004,197293
+Yeah, ooh9Embed",72,0.612,0.57,77.004,197293
 149,2020,10,Someone You Loved,Lewis Capaldi,"223 ContributorsTranslationsSvenskaEspañolPortuguêsDeutschNederlandsFrançaisTürkçeSomeone You Loved Lyrics[Verse 1]
 I'm going under, and this time, I fear there's no one to save me
 This all or nothing really got a way of driving me crazy
@@ -13382,7 +13382,7 @@ And you're not here to get me through it all
 I let my guard down and then you pulled the rug
 I was getting kinda used to being someone you loved
 I let my guard down and then you pulled the rug
-I was getting kinda used to being someone you loved168Embed",7qEHsqek33rTcFNT9PFqLf,91,0.501,0.405,109.891,182161
+I was getting kinda used to being someone you loved168Embed",91,0.501,0.405,109.891,182161
 150,2021,1,Levitating,Dua Lipa,"154 ContributorsTranslationsTürkçeEspañolفارسیDeutschFrançaisNederlandsLevitating Lyrics[Verse 1]
 If you wanna run away with me, I know a galaxy
 And I can take you for a ride
@@ -13477,7 +13477,7 @@ I need you all night, come on, dance with me (Come on, dance with me)
 I'm levitating
 You, moonlight, you're my starlight (You're the moonlight)
 I need you all night, come on, dance with me
-I'm levitating96Embed",39LLxExYz6ewLAcYrzQQyP,82,0.695,0.884,103.014,203808
+I'm levitating96Embed",82,0.695,0.884,103.014,203808
 151,2021,2,Save Your Tears,The Weeknd & Ariana Grande,"142 ContributorsTranslationsTürkçeNederlandsРусскийPortuguêsItalianoDeutschFrançaisNederlandsSave Your Tears (Remix) Lyrics[Intro: The Weeknd & Ariana Grande]
 Ooh (Ooh)
 Na-na, yeah
@@ -13533,7 +13533,7 @@ Save (Save) your (Your) tears for another day (Oh yeah, yeah; oh)
 [Outro: The Weeknd & Both]
 Save your tears for another day (Oh)
 Save your tears for another day (Oh)
-Save your tears for another day66Embed",5QO79kh1waicV47BqGRL3g,91,0.68,0.826,118.051,215627
+Save your tears for another day66Embed",91,0.68,0.826,118.051,215627
 152,2021,3,Blinding Lights,The Weeknd,"232 ContributorsTranslationsTürkçeSvenskaEspañolSlovenčinaРусскийPortuguêsPolskiNorsk (bokmål / riksmål)日本語ItalianoHebrewDeutschFrançaisفارسیNederlandsDanskShqipالعربيةBlinding Lights Lyrics[Intro]
 Yeah
 
@@ -13588,7 +13588,7 @@ Hey, hey, hey
 
 [Outro]
 I said, ooh, I'm blinded by the lights
-No, I can't sleep until I feel your touch275Embed",0VjIjW4GlUZAMYd2vXMi3b,93,0.514,0.73,171.005,200040
+No, I can't sleep until I feel your touch275Embed",93,0.514,0.73,171.005,200040
 153,2021,4,Mood,24kGoldn Featuring iann dior,"4 Contributors“Noob” - Roblox Parody of “Mood” by 24kGoldn ft. Iann Dior LyricsWhy you always such a noob
 Walking round, acting brand new
 I don't wanna see you yelling oof
@@ -13648,7 +13648,7 @@ I don't wanna see you yelling oof
 But you ain't got a clue
 Afk and lagging out too
 Running 'round in yellow green and blue
-OofYou might also likeEmbed",0yUaLqhsVsguBpoOPL4cO7,77,0.768,0.74,141.059,129362
+OofYou might also likeEmbed",77,0.768,0.74,141.059,129362
 154,2021,5,Good 4 U,Olivia Rodrigo,"253 ContributorsTranslationsEspañolTürkçeSvenskaPortuguêsPortuguês日本語ItalianoMagyarDeutschFrançaisChinese TraditionalالعربيةNorsk (bokmål / riksmål)Русский​good 4 u Lyrics[Intro]
 (Ah)
 
@@ -13720,7 +13720,7 @@ But you're so unaffected, I really don't get it
 But I guess good for you
 
 [Outro]
-Well, good for you, I guess you moved on really easily261Embed",4ZtFanR9U6ndgddUvNcjcG,87,0.563,0.664,166.928,178147
+Well, good for you, I guess you moved on really easily261Embed",87,0.563,0.664,166.928,178147
 155,2021,6,Kiss Me More,Doja Cat Featuring SZA,"212 ContributorsTranslationsTürkçePolskiRomânăPortuguês日本語DeutschKiss Me More Lyrics[Verse 1: Doja Cat]
 We hug and, yes, we make love
 And always just say goodnight (La-la-la-la-la-la)
@@ -13801,7 +13801,7 @@ Ooh, I love the taste, oh-la-la-la-la-la
 All on my tongue, I want it
 Boy, you write your name, I can do the same
 Ooh, I love the taste, oh-la-la-la-la-la
-All on my tongue, I want it203Embed",3DarAbFujv6eYNliUTyqtz,83,0.764,0.705,110.97,208667
+All on my tongue, I want it203Embed",83,0.764,0.705,110.97,208667
 156,2021,7,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),"192 ContributorsTranslationsTürkçeEnglishРусскийPortuguês日本語ItalianoDeutschNederlandsहिन्दीLeave The Door Open Lyrics[Intro: Bruno Mars]
 Say baby, say baby, say baby
 
@@ -13884,7 +13884,7 @@ La-la-la-la-la-la-la (I'm waitin', waitin', waitin')
 Tell me that you're comin' through (For you)
 Girl, I'm here just waitin' for you
 Come on over, I'll adore you
-La-la-la-la-la-la-la (La-la-la-la)135Embed",02VBYrHfVwfEWXk5DXyf0T,83,0.586,0.616,148.088,242096
+La-la-la-la-la-la-la (La-la-la-la)135Embed",83,0.586,0.616,148.088,242096
 157,2021,8,Drivers License,Olivia Rodrigo,"396 ContributorsTranslationsTürkçeEspañolРусскийPortuguêsPortuguêsNorsk (bokmål / riksmål)日本語ItalianoDeutschFrançaisفارسیDanskहिन्दीPolskiNederlandsالعربيةChinese Traditional​drivers license Lyrics[Verse 1]
 I got my driver's license last week
 Just like we always talked about
@@ -13937,7 +13937,7 @@ And I just can't imagine how you could be so okay now that I'm gone
 Guess you didn't mean what you wrote in that song about me
 'Cause you said forever, now I drive alone past your street
 [Outro]
-Yeah, you said forever, now I drive alone past your street379Embed",5wANPM4fQCJwkGd4rN57mH,88,0.561,0.431,143.875,242013
+Yeah, you said forever, now I drive alone past your street379Embed",88,0.561,0.431,143.875,242013
 158,2021,9,Montero (Call Me By Your Name),Lil Nas X,"377 ContributorsTranslationsTürkçeEspañolРусскийRomânăPortuguês日本語ItalianoDeutschFrançaisالعربيةMONTERO (Call Me By Your Name) Lyrics[Verse 1]
 I caught it bad yesterday
 You hit me with a call to your place
@@ -13993,7 +13993,7 @@ Call me out by your name, I'll be on the way like
 Oh, call me by your name (Mmm, mmm, mmm)
 Tell me you love me in private
 Call me by your name (Mmm, mmm, mmm)
-I do not care if you're lyin'334Embed",1SC5rEoYDGUK4NfG82494W,80,0.593,0.503,178.781,137704
+I do not care if you're lyin'334Embed",80,0.593,0.503,178.781,137704
 159,2021,10,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,"4 Contributors2022 Nominees LyricsGENERAL FIELDRecord Of The YearLEAVE THE DOOR OPEN
 Silk Sonic - The Winner
 ABBA - I STILL HAVE FAITH IN YOU
@@ -14239,7 +14239,7 @@ Happier Than Ever: A Love Letter To Los Angeles — Billie Eilish
 
 Music, Money, Madness...Jimi Hendrix In Maui — Jimi Hendrix
 
-Summer Of Soul — Various ArtistsEmbed",4w9soAM7IrmYDhSXLp14p6,74,0.698,0.312,92.138,95440
+Summer Of Soul — Various ArtistsEmbed",74,0.698,0.312,92.138,95440
 160,2022,1,Heat Waves,Glass Animals,"157 ContributorsTranslationsItalianoDeutschFrançaisHeat Waves Lyrics[Intro]
 (Last night, all I think about is you)
 (Don't stop, baby, you can walk through)
@@ -14318,7 +14318,7 @@ Can't make you happier now
 Road shimmer wigglin' the vision
 Heat, heat waves, I'm swimmin' in a mirror
 Road shimmer wigglin' the vision
-Heat, heat waves, I'm swimmin' in a mirror84Embed",3USxtqRwSYz57Ewm6wWRMp,91,0.761,0.525,80.87,238805
+Heat, heat waves, I'm swimmin' in a mirror84Embed",91,0.761,0.525,80.87,238805
 161,2022,2,As It Was,Harry Styles,"212 ContributorsTranslationsTürkçeEspañolPortuguês日本語ItalianoΕλληνικάDeutschFrançaisTagalog / ᜆᜄᜎᜓᜄ᜔EnglishNederlandsShqipPolskiРусскийहिन्दीČesky한국어As It Was Lyrics[Intro]
 Come on, Harry, we wanna say goodnight to you
 
@@ -14367,7 +14367,7 @@ I don't wanna talk about who's doin' it first
 (Hey)
 As it was
 You know it's not the same as it was
-As it was, as it was190Embed",4Dvkj6JhhA12EX05fT7y2e,95,0.52,0.731,173.93,167303
+As it was, as it was190Embed",95,0.52,0.731,173.93,167303
 162,2022,3,Stay,The Kid LAROI & Justin Bieber,"132 ContributorsTranslationsTürkçeEspañolPortuguêsItalianoDeutschFrançaisفارسیРусскийSTAY Lyrics[Chorus: The Kid LAROI]
 I do the same thing I told you that I never would
 I told you I'd change, even when I knew I never could
@@ -14422,7 +14422,7 @@ I know that I can't find nobody else as good as you
 I need you to stay, need you to stay, hey
 [Outro: The Kid LAROI & Justin Bieber]
 Woah-oh
-I need you to stay, need you to stay, hey115Embed",789CxjEOtO76BVD1A9yJQH,74,0.621,0.31,111.893,240707
+I need you to stay, need you to stay, hey115Embed",74,0.621,0.31,111.893,240707
 163,2022,4,Easy On Me,Adele,"208 ContributorsTranslationsTürkçeไทย / Phasa ThaiSvenskaEspañolHrvatskiРусскийPortuguês한국어日本語ItalianoMagyarΕλληνικάDeutschFrançaisفارسیPolskiTagalog / ᜆᜄᜎᜓᜄ᜔Tiếng ViệtEasy On Me Lyrics[Verse 1]
 There ain't no gold in this river
 That I've been washin' my hands in forever
@@ -14462,7 +14462,7 @@ I was still a child
 I didn't get the chance to
 Feel the world around me
 I had no time to choose what I chose to do
-So go easy on me156Embed",0gplL1WMoJ6iYaPgMCL0gX,84,0.604,0.366,141.981,224695
+So go easy on me156Embed",84,0.604,0.366,141.981,224695
 164,2022,5,Shivers,Ed Sheeran,"82 ContributorsTranslationsEspañolPortuguêsDeutschفارسیதமிழ்日本語ItalianoShivers Lyrics[Verse 1]
 I took an arrow to the heart
 I never kissed a mouth that tastes like yours
@@ -14534,7 +14534,7 @@ And when they say the party's over, then we'll bring it right back (Oh, no)
 And we'll say, ""Ooh, I love it when you do it like that""
 And when you're close up, give me the shivers
 Oh, baby, you wanna dance 'til the sunlight cracks
-And when they say the party's over, then we'll bring it right back, hey23Embed",50nfwKoDiSYg8zOCREWAm5,87,0.788,0.859,141.02,207853
+And when they say the party's over, then we'll bring it right back, hey23Embed",87,0.788,0.859,141.02,207853
 165,2022,6,First Class,Jack Harlow,"145 ContributorsTranslationsTürkçeEspañolРусскийDeutschFirst Class Lyrics[Intro: Jack Harlow]
 Mm
 
@@ -14592,7 +14592,7 @@ I can put you in (First class, up in the s—, up-up in the s—)
 I been a (G), throw up the (L), sex in the (A.M.), uh-huh
 (O-R-O-U-S, yeah)
 And I can put you in (First class, up in the sky), mm, mm
-I can put you in (First class)28Embed",0wHFktze2PHC5jDt3B17DC,82,0.902,0.582,107.005,173948
+I can put you in (First class)28Embed",82,0.902,0.582,107.005,173948
 166,2022,7,Big Energy,Latto,"70 ContributorsTranslations日本語Big Energy Lyrics[Intro]
 I got that big, big energy (Uh-huh)
 Got that real big energy (Energy)
@@ -14678,7 +14678,7 @@ Bad bitch, I could be your fantasy (Ayy, ayy)
 Got that real big energy
 Got that big, big energy (Big dick energy)
 Got that real big energy
-Got that big, big energy (Big dick energy)9Embed",6Zu3aw7FfjAF9WA0fA81Oq,72,0.935,0.807,106.017,173182
+Got that big, big energy (Big dick energy)9Embed",72,0.935,0.807,106.017,173182
 167,2022,8,Ghost,Justin Bieber,"113 ContributorsTranslationsDeutschTürkçeEspañolPortuguêsGhost Lyrics[Verse 1]
 Youngblood thinks there's always tomorrow
 I miss your touch some nights when I'm hollow
@@ -14720,7 +14720,7 @@ I miss you more than life
 And if you can't be next to me
 Your memory is ecstasy
 I miss you more than life
-I miss you more than life19Embed",6I3mqTwhRpn34SLVafSH7G,89,0.601,0.741,153.96,153190
+I miss you more than life19Embed",89,0.601,0.741,153.96,153190
 168,2022,9,Super Gremlin,Kodak Black,"70 ContributorsSuper Gremlin Lyrics[Intro]
 Well, we could be superstars
 We been rather wreckin' cars (Ayy bro, is that Jambo?)
@@ -14810,7 +14810,7 @@ Any way you put it, I'm SG with it, I'm Super Gremlin
 Snatch and grab, sneak and geek, Sniper Gang, trust
 Nightmare, baby, you know I—
 I bet you always see me in your dreams
-Glee14Embed",4A8cWXxKfIL3lAyUDzXbCF,74,0.825,0.414,72.993,200548
+Glee14Embed",74,0.825,0.414,72.993,200548
 169,2022,10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,"76 ContributorsTranslationsEspañolPortuguêsDeutschCold Heart (PNAU Remix) Lyrics[Intro]
 (Oh)
 (Oh)
@@ -14873,7 +14873,7 @@ Shoorah (Oh)
 Shoorah
 Shoorah (Oh)
 Shoorah
-(No, no, no, no, no)17Embed",6zSpb8dQRaw0M1dK8PBwQz,86,0.796,0.798,116.032,202735
+(No, no, no, no, no)17Embed",86,0.796,0.798,116.032,202735
 170,2023,1,Last Night,Morgan Wallen,"27 ContributorsTranslationsPortuguêsDeutschCatalàFrançaisEspañolLast Night Lyrics[Intro]
 Last night, we let the liquor talk
 I can't remember everything we said, but we said it all
@@ -14921,7 +14921,7 @@ No way it was our last night (Last night)
 I know you said this time you really weren't comin' back again
 But, baby, baby, something's tellin' me this ain't over yet
 No way it was our last night (Last night)
-No way it was our last night (Last night)3Embed",7K3BhSpAxZBznislvUMVtn,86,0.492,0.675,203.759,163855
+No way it was our last night (Last night)3Embed",86,0.492,0.675,203.759,163855
 171,2023,2,Flowers,Miley Cyrus,"97 ContributorsTranslationsEspañolPortuguêsKiswahiliDeutschItalianoСрпскиNederlandsSvenskaPolskiTürkçeΕλληνικάFrançaisDansk日本語РусскийالعربيةУкраїнськаBahasa IndonesiaفارسیFlowers Lyrics[Verse 1]
 We were good, we were gold
 Kinda dream that can't be sold
@@ -14986,7 +14986,7 @@ Yeah, I can love me better than you can
 Can love me better, I can love me better, baby (Uh)
 Can love me better, I can love me better, baby (Than you can)
 Can love me better, I can love me better, baby
-Can love me better, I33Embed",7DSAEUvxU8FajXtRloy8M0,94,0.706,0.691,118.048,200600
+Can love me better, I33Embed",94,0.706,0.691,118.048,200600
 172,2023,3,Kill Bill,SZA,"149 ContributorsTranslationsEspañolPortuguêsItalianoTürkçeDeutschNederlands日本語සිංහලΕλληνικάРусскийBahasa IndonesiaFrançaisKill Bill Lyrics[Verse 1]
 I'm still a fan even though I was salty
 Hate to see you with some other broad, know you happy
@@ -15041,7 +15041,7 @@ Don't you know I did it all for us? (I'm gon' kill your ass tonight)
 Oh, I just killed my ex, not the best idea (Idea)
 Killed his girlfriend next, how'd I get here?
 I just killed my ex, I still love him though (I do)
-Rather be in hell than alone73Embed",1Qrg8KqiBpW07V7PNxwwwL,92,0.644,0.735,88.98,153947
+Rather be in hell than alone73Embed",92,0.644,0.735,88.98,153947
 173,2023,4,Anti-Hero,Taylor Swift,"197 ContributorsTranslationsPortuguêsEspañolTürkçeFrançais中文NederlandsDeutschไทย / Phasa ThaiItalianoSvenskaУкраїнськаСрпскиBahasa IndonesiaРусскийPolskiМонголAnti-Hero Lyrics[Verse 1]
 I have this thing where I get older, but just never wiser
 Midnights become my afternoons
@@ -15104,7 +15104,7 @@ It's me, hi (Hi)
 I'm the problem, it's me (I'm the problem, it's me)
 At teatime (Teatime), everybody agrees (Everybody agrees)
 I'll stare directly at the sun, but never in the mirror
-It must be exhausting always rooting for the anti-hero69Embed",0V3wPSX9ygBnCm8psDIegu,92,0.637,0.643,97.008,200690
+It must be exhausting always rooting for the anti-hero69Embed",92,0.637,0.643,97.008,200690
 174,2023,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage","143 ContributorsTranslationsPortuguêsEspañolTürkçeفارسیCreepin’ Lyrics[Intro]
 (Just can't believe this, man)
 (Metro Boomin want some more, nigga)
@@ -15171,7 +15171,7 @@ If you creepin', just don't let me find out (On God)
 Get a hotel, never bring 'em to the house (On God)
 If you're better off that way
 Baby, all that I can say
-If you're gonna do your thing, then don't come back to me38Embed",2dHHgzDwk4BJdRwy9uXhTO,92,0.715,0.62,97.95,221520
+If you're gonna do your thing, then don't come back to me38Embed",92,0.715,0.62,97.95,221520
 175,2023,6,Calm Down,Rema & Selena Gomez,"36 ContributorsTranslationsPortuguêsالعربيةCalm Down (Remix) Lyrics[Intro: Rema & Selena Gomez]
 Vibez
 Oh, no
@@ -15239,7 +15239,7 @@ You got me like woah-woah-woah-woah-woah-woah-woah-woah-woah
 Shawty, come gimme your lo-lo-lo-lo-lo-lo-lo-lo-love (Oh, woah), hmm
 
 [Outro: Selena Gomez]
-Your love9Embed",0WtM2NBVQNNJLh6scP13H8,90,0.801,0.806,106.999,239318
+Your love9Embed",90,0.801,0.806,106.999,239318
 176,2023,7,Die For You,The Weeknd & Ariana Grande,"85 ContributorsTranslationsEspañolItalianoDeutschPortuguêsBahasa IndonesiaالعربيةDie For You (Remix) Lyrics[Verse 1: The Weeknd]
 I'm findin' ways to articulate the feelin' I'm goin' through
 I just can't say I don't love you (Yeah)
@@ -15309,7 +15309,7 @@ Baby, I would die for you, yeah
 The distance and the time between us (Ooh)
 It'll never change my mind 'cause (No, no)
 Baby, I would die for you (No)
-Baby, I would die for you, yeah (Oh, babe)15Embed",2LBqCSwhJGcFQeTHMVGwy3,91,0.586,0.525,133.629,260253
+Baby, I would die for you, yeah (Oh, babe)15Embed",91,0.586,0.525,133.629,260253
 177,2023,8,Fast Car,Luke Combs,"14 ContributorsTranslationsPortuguêsFast Car Lyrics[Verse 1]
 You got a fast car
 And I want a ticket to anywhere
@@ -15391,7 +15391,7 @@ I had a feeling I could be someone, be someone, be someone
 You got a fast car
 Is it fast enough so we can fly away?
 Still gotta make a decision
-Leave tonight or live and die this way1Embed",1Lo0QY9cvc8sUB2vnIOxDT,88,0.712,0.603,97.994,265493
+Leave tonight or live and die this way1Embed",88,0.712,0.603,97.994,265493
 178,2023,9,Snooze,SZA,"68 ContributorsTranslationsEspañolPortuguêsItalianoРусскийSnooze Lyrics[Intro]
 Ooh
 I think I know
@@ -15461,7 +15461,7 @@ Nobody do body like you do, you do
 Nah, nah, nah, nah
 I think I know, woah
 See, no, I can't lose, oh
-I think I know, oh14Embed",4iZ4pt7kvcaH6Yo8UoZ4s2,93,0.559,0.551,143.008,201800
+I think I know, oh14Embed",93,0.559,0.551,143.008,201800
 179,2023,10,I'm Good (Blue),David Guetta & Bebe Rexha,"63 ContributorsTranslationsPortuguêsEspañolTürkçeDeutschI’m Good (Blue) Lyrics[Chorus]
 I'm good, yeah, I'm feelin' alright
 Baby, I'ma have the best fuckin' night of my life
@@ -15507,4 +15507,4 @@ No, baby, nothing's gonna stop us tonight
 'Cause I'm good, yeah, I'm feelin' alright
 Baby, I'ma have the best fuckin' night of my life
 And wherever it takes me, I'm down for the ride
-Baby, don't you know I'm good, yeah, I'm feelin' alright37Embed",1LLmT2hZ415NaAz1cmZCBM,50,0.642,0.927,128.074,163000
+Baby, don't you know I'm good, yeah, I'm feelin' alright37Embed",50,0.642,0.927,128.074,163000
