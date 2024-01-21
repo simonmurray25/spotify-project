@@ -20,7 +20,7 @@ d3.select("#d3-dropdown").on("change",function(d){
             }  
         }
         //Remove certain words
-        let wordsRemove = ['a','i','I','A','the', 'my', 'of','me','it', 'in', 'Of','your', 'You', 'on', 'On', 'In','?','My', 'If', 'It','Is', 'To','The','Too', 'Me','And','I\'m', 'Are'];
+        let wordsRemove = ['a','i','I','A','the', 'my', 'of','me','it', 'in', 'Of','your', 'You', 'on', 'On', 'In','?','My', 'If', 'It','Is', 'To','The','Too', 'Me','And','I\'m', 'Are',"(Taylor\'s)",'Version)'];
         let finalArray = wordArray.filter(elem => !wordsRemove.includes(elem));
     
 
@@ -45,7 +45,7 @@ d3.select("#d3-dropdown").on("change",function(d){
         .size([width, height])
         .words(finalArray.map(function(d) { return {text: d}; }))
         .padding(5)        //space between words
-        .rotate(-45)       // rotation angle in degrees
+        .rotate(0)       // rotation angle in degrees
         .fontSize(20)      // font size of words
         .on("end", draw);
         layout.start();
@@ -60,7 +60,7 @@ d3.select("#d3-dropdown").on("change",function(d){
             .data(words)
         .enter().append("text")
             .style("font-size", 20)
-            .style("fill", "#69b3a2")
+            .style("fill", "#1DB954")
             .attr("text-anchor", "middle")
             .style("font-family", "Impact")
             .attr("transform", function(d) {
