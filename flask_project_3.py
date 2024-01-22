@@ -27,9 +27,9 @@ def category(category):
     return(flask.jsonify(result_dict))
 
 
-@app.route("/lyrics/<song>")
-def lyrics(song):
-    result = connection.execute(sqlalchemy.text(f'select * from top_10_full where title = \'{song}\''))
+@app.route("/lyrics/<year>")
+def lyrics(year):
+    result = connection.execute(sqlalchemy.text(f'select * from top_10_full where year = \'{year}\' and rank = 1'))
     result_dict = []
     for record in result:
         result_dict.append({'Title': record.title, 'Lyrics':record.lyrics})

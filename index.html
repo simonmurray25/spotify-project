@@ -36,13 +36,13 @@
         text-align: right;
         font-size: 20px;
     }
-      /* style lyrics */
+    /* style lyrics */
       .lyrics{
         background-color: #ffffff;
         padding: 30px;
-        text-align: center;
+        text-align: right;
         font-size: 20px;
-    }
+      }
 
     </style>
 </head>
@@ -118,13 +118,19 @@
 
   <div class="lyrics">
     <h2>Lyric Analysis</h2>
-    <h5> </h5>
-  
-    <!-- Lyric bubles -->
+    <h5>Top Song of Each Chosen Year</h5>
+    <!-- Lyric bubbles -->
+    <div id="lyric_dataviz1": left;></div>
+    <div id="lyric_dataviz2": right;></div>
+
   </div>
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Load lyrics.js -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="lyrics.js"></script>
 
 <!-- Load d3-cloud -->
 <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
