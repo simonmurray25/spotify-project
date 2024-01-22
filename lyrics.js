@@ -34,10 +34,6 @@ d3.select("#year1_dropDown").on("change",function(d){
         const keys = Object.keys(count);
         const values = Object.values(count);
         
-        console.log(count)
-        console.log(keys);
-        console.log(values);
-
         let newCount = [];
         for (let x = 0; x < keys.length; x++) {
             newCount.push({word:keys[x], frequency:values[x]})
@@ -45,10 +41,7 @@ d3.select("#year1_dropDown").on("change",function(d){
         newCount = newCount.sort((a,b)=>b.frequency-a.frequency).slice(0,25)
         keys2 = newCount.map((obj)=>obj.word);
         values2 = newCount.map((obj)=>obj.frequency);
-        console.log(newCount)
-        console.log(keys2)
-        console.log(values2)
-
+        
         // create the chart in plotly
         let trace1 = {
             x: values2,
@@ -117,10 +110,6 @@ d3.select("#year2_dropDown").on("change",function(d){
         const keys = Object.keys(count);
         const values = Object.values(count);
         
-        console.log(count)
-        console.log(keys);
-        console.log(values);
-
         let newCount = [];
         for (let x = 0; x < keys.length; x++) {
             newCount.push({word:keys[x], frequency:values[x]})
@@ -128,9 +117,7 @@ d3.select("#year2_dropDown").on("change",function(d){
         newCount = newCount.sort((a,b)=>b.frequency-a.frequency).slice(0,25)
         keys2 = newCount.map((obj)=>obj.word);
         values2 = newCount.map((obj)=>obj.frequency);
-        console.log(newCount)
-        console.log(keys2)
-        console.log(values2)
+        
 
         // create the chart in plotly
         let trace1 = {
