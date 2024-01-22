@@ -35,9 +35,9 @@ def lyrics(year):
         result_dict.append({'Title': record.title, 'Lyrics':record.lyrics})
     return(flask.jsonify(result_dict))
 
-@app.route("/features/<song>")
-def features(song):
-    result = connection.execute(sqlalchemy.text(f'select * from top_10_full where title = \'{song}\''))
+@app.route("/features/<year>")
+def features(year):
+    result = connection.execute(sqlalchemy.text(f'select * from top_10_full where year = \'{year}\''))
     result_dict = []
     for record in result:
         result_dict.append({'Title': record.title, 'Popularity':record.popularity,'Danceability':record.danceability, 'Energy':record.energy, 'Tempo':record.tempo, 'Duration':record.duration})
