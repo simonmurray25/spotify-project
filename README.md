@@ -2,7 +2,7 @@
 
 Project Overview
 ~~~~~~~~~~~~~~~~~
-  The purpose of this project was to explore music trends over time using interactive visualizations. We collected and organized data from Spotify and Billboard Music Charts to explore trends related to song names, lyrics, and music features. We collected the current top 40 songs for several different categories in order to look at trends in song names by category. We also collected the top 10 songs from 2006-2023 along with their artist and lyrics. Several different music features including popularity, danceability, energy, tempo, and duration were also collected for the analysis of this second data set. From the second data set we planned to compare music features of the top 10 songs from two different years so users could observe differences in music features from year to year. Lastly, from the second data set we hoped to create a visual representation of song lyric trend between two years. 
+  The purpose of this project was to explore music trends over time using interactive visualizations. We collected and organized data from Spotify, Lyric Genius, and Billboard Music Charts to explore trends related to song names, lyrics, and music features. We collected the current top 40 songs for several different categories in order to look at trends in song names by category. We also collected the top 10 songs from 2006-2023 along with their artist and lyrics. Several different music features including popularity, danceability, energy, tempo, and duration were also collected for the analysis of this second data set. From the second data set we planned to compare music features of the top 10 songs from two different years so users could observe differences in music features from year to year. Lastly, from the second data set we hoped to create a visual representation of song lyric trend between two years. 
 
 Instructions
 ~~~~~~~~~~~~~
@@ -21,6 +21,7 @@ Data Sources
 ~~~~~~~~~~~~
 - Billboard charts API https://github.com/guoguo12/billboard-charts
 - Spotify API https://developer.spotify.com/documentation/web-api
+- Lyric genius API https://docs.genius.com/#/getting-started-h1
 
 References
 ~~~~~~~~~~
