@@ -1,4 +1,4 @@
-d3.select("#year1_dropDown").on("change",function(d){
+d3.select("#year3_dropDown").on("change",function(d){
     let year_choice1 = d3.select(this).property('value');
     //Link with selected category
     let link = 'http://127.0.0.1:5000/lyrics/'+ year_choice1;
@@ -74,7 +74,7 @@ d3.select("#year1_dropDown").on("change",function(d){
           
 
 })})
-d3.select("#year2_dropDown").on("change",function(d){
+d3.select("#year4_dropDown").on("change",function(d){
     let year_choice2 = d3.select(this).property('value');
     //Link with selected category
     let link = 'http://127.0.0.1:5000/lyrics/'+ year_choice2;
