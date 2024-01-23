@@ -6,7 +6,10 @@ Project Overview
 
 Instructions
 ~~~~~~~~~~~~~
-- Download and run table schema in pgAdmin to create two tables: top_10_full and categories_top_40
+- Create a passwordPG.py file in your folder and add your PGadmin username and password.
+  username = 'postgres'
+  password = 'YOUR PASSWORD HERE'
+Download and run table schema in pgAdmin to create two tables: top_10_full and categories_top_40
 - Download and import top_10_full.csv and categories_top_40.csv into the data base
       - Refer to jupyter notebook files to see and replicate how csv files were created
 - Download and run flask_project_3.py
