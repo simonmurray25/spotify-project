@@ -10,8 +10,17 @@ Instructions
   username = 'postgres'
   password = 'YOUR PASSWORD HERE'
 - Download and run table schema in pgAdmin to create two tables: top_10_full and categories_top_40
-- Download and import top_10_full.csv and categories_top_40.csv into the data base
-      - Refer to jupyter notebook files to see and replicate how csv files were created
+- Install the required modules in python using the following code:  
+  1. "pip install billboard.py" 
+  2. "pip install lyricsgenius"  
+  3. "pip install wordcloud"  
+  4. "pip install spotipy"
+  - Run the following Jupyter notebooks in this order:    
+  1. Billboard_charts_dataframes.ipynb 
+  2. lyrics.ipynb - This will run for at least 10 minutes  
+  3. audio_features.ipynb  
+  4. merge.ipynb  
+- Download and import top_10_full.csv and categories_top_40.csv into the PGadmin data base  
 - Download and run flask_project_3.py
 - Open index.html and click go live to open the webpage
 - Explore the 3 different interactive visualizations to learn more about music features of popular songs, song naming trends by music category, and lyric trends of popular songs.
