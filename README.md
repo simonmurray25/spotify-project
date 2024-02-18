@@ -9,7 +9,8 @@ Instructions
 - Create a passwordPG.py file in your folder and add your PGadmin username and password.
   username = 'postgres'
   password = 'YOUR PASSWORD HERE'
-- Download and run table schema in pgAdmin to create two tables: top_10_full and categories_top_40
+- Open pgAdmin and create a database named "Project 3"
+- Download and run table_schema.sql file from the folder in pgAdmin to create two tables: top_10_full and categories_top_40
 - Install the required modules in python using the following code:  
   1. "pip install billboard.py" 
   2. "pip install lyricsgenius"  
